@@ -1,0 +1,4183 @@
+region code,region division,region name
+AA00,country,ARUBA
+AC00,country,ANTIGUA AND BARBUDA
+AC01,dependency,Barbuda
+AC03,parish,Saint George
+AC04,parish,Saint John
+AC05,parish,Saint Mary
+AC06,parish,Saint Paul
+AC07,parish,Saint Peter
+AC08,parish,Saint Philip
+AC09,dependency,Redonda
+AE00,country,UNITED ARAB EMIRATES
+AE01,emirate,Abū Z̧aby
+AE02,emirate,ʻAjman
+AE03,emirate,Dubayy
+AE04,emirate,Al Fujayrah
+AE05,emirate,Raʼs al Khaymah
+AE06,emirate,Ash Shāriqah
+AE07,emirate,Umm al Qaywayn
+AF00,country,AFGHANISTAN
+AF01,province velayat,Badakhshan
+AF02,province velayat,Badghis
+AF03,province velayat,Baghlan
+AF05,province velayat,Bamian
+AF06,province velayat,Farah
+AF07,province velayat,Faryab
+AF08,province velayat,Ghazni
+AF09,province velayat,Ghowr  Ghor
+AF10,province velayat,Helmand
+AF11,province velayat,Herat
+AF13,province velayat,Kabol
+AF14,province velayat,Kapisa
+AF17,province velayat,Lowgar  Logar
+AF18,province velayat,Nangarhar
+AF19,province velayat,Nimruz  Chakhansur
+AF23,province velayat,Kandahar  Kandahar
+AF24,province velayat,Kondoz  Kunduz
+AF26,province velayat,Takhar
+AF27,province velayat,Vardak  Warkak
+AF28,province velayat,Zabol  Zabul
+AF29,province velayat,Paktika
+AF30,province velayat,Balkh
+AF31,province velayat,Jowzjan
+AF32,province velayat,Samangan
+AF33,province velayat,Sar-e Pol
+AF34,province velayat,Konar
+AF35,province velayat,Laghmān
+AF36,province velayat,Paktīā
+AF37,province velayat,Khowst
+AF38,province velayat,Nūrestān
+AF39,province velayat,Orūzgān  Uruzgan
+AF40,province velayat,Parvān  Parwan
+AF41,province velayat,Dāykondī
+AF42,province velayat,Panjshīr
+AG00,country,ALGERIA
+AG01,province wilaya,Alger
+AG03,province wilaya,Batna
+AG04,province wilaya,Constantine
+AG06,province wilaya,Medea
+AG07,province wilaya,Mostaganem
+AG09,province wilaya,Oran
+AG10,province wilaya,Saida
+AG12,province wilaya,Setif
+AG13,province wilaya,Tiaret
+AG14,province wilaya,Tizi Ouzou
+AG15,province wilaya,Tlemcen
+AG18,province wilaya,Bejaia
+AG19,province wilaya,Biskra
+AG20,province wilaya,Blida
+AG21,province wilaya,Bouira
+AG22,province wilaya,Djelfa
+AG23,province wilaya,Guelma
+AG24,province wilaya,Jijel
+AG25,province wilaya,Laghouat
+AG26,province wilaya,Mascara
+AG27,province wilaya,M'sila
+AG29,province wilaya,Oum el Bouaghi
+AG30,province wilaya,Sidi Bel Abbes
+AG31,province wilaya,Skikda
+AG33,province wilaya,Tebessa
+AG34,province wilaya,Adrar
+AG35,province wilaya,Ain Defla
+AG36,province wilaya,Ain Temouchent
+AG37,province wilaya,Annaba
+AG38,province wilaya,Bechar
+AG39,province wilaya,Bordj Bou Arreridj
+AG40,province wilaya,Boumerdes
+AG41,province wilaya,Chlef
+AG42,province wilaya,El Bayadh
+AG43,province wilaya,El Oued
+AG44,province wilaya,El Tarf
+AG45,province wilaya,Ghardaia
+AG46,province wilaya,Illizi
+AG47,province wilaya,Khenchela
+AG48,province wilaya,Mila
+AG49,province wilaya,Naama
+AG50,province wilaya,Ouargla
+AG51,province wilaya,Relizane
+AG52,province wilaya,Souk Ahras
+AG53,province wilaya,Tamanghasset
+AG54,province wilaya,Tindouf
+AG55,province wilaya,Tipaza
+AG56,province wilaya,Tissemsilt
+AJ00,country,AZERBAIJAN
+AJ01,rayon rayonu,Abşeron
+AJ02,rayon rayonu,Ağcabədi
+AJ03,rayon rayonu,Ağdam
+AJ04,rayon rayonu,Ağdaş
+AJ05,rayon rayonu,Ağstafa
+AJ06,rayon rayonu,Ağsu
+AJ07,city şəhəri,Əli Bayramlı
+AJ08,rayon rayonu,Astara
+AJ09,city şəhəri,Bakı
+AJ10,rayon rayonu,Balakən
+AJ11,rayon rayonu,Bərdə
+AJ12,rayon rayonu,Beyləqan
+AJ13,rayon rayonu,Biləsuvar
+AJ14,rayon rayonu,Cəbrayıl
+AJ15,rayon rayonu,Cəlilabad
+AJ16,rayon rayonu,Daşkəsən
+AJ17,rayon rayonu,Dəvəçi
+AJ18,rayon rayonu,Füzuli
+AJ19,rayon rayonu,Gədəbəy
+AJ20,city şəhəri,Gəncə
+AJ21,rayon rayonu,Goranboy
+AJ22,rayon rayonu,Göyçay
+AJ23,rayon rayonu,Hacıqabul
+AJ24,rayon rayonu,İmişli
+AJ25,rayon rayonu,İsmayıllı
+AJ26,rayon rayonu,Kəlbəcər
+AJ27,rayon rayonu,Kürdəmir
+AJ28,rayon rayonu,Laçın
+AJ29,rayon rayonu,Lənkəran
+AJ30,city şəhəri,Lənkəran
+AJ31,rayon rayonu,Lerik
+AJ32,rayon rayonu,Masallı
+AJ33,city şəhəri,Mingəcevir
+AJ34,city şəhəri,Naftalan
+AJ35,autonomous republic muxtar respublikasi,Naxçıvan
+AJ36,rayon rayonu,Neftçala
+AJ37,rayon rayonu,Oğuz
+AJ38,rayon rayonu,Qəbələ
+AJ39,rayon rayonu,Qax
+AJ40,rayon rayonu,Qazax
+AJ41,rayon rayonu,Qobustan
+AJ42,rayon rayonu,Quba
+AJ43,rayon rayonu,Qubadlı
+AJ44,rayon rayonu,Qusar
+AJ45,rayon rayonu,Saatlı
+AJ46,rayon rayonu,Sabirabad
+AJ47,rayon rayonu,Şəki
+AJ48,city şəhəri,Şəki
+AJ49,rayon rayonu,Salyan
+AJ50,rayon rayonu,Şamaxı
+AJ51,rayon rayonu,Şəmkir
+AJ52,rayon rayonu,Samux
+AJ53,rayon rayonu,Siyəzən
+AJ54,rayon rayonu,Sumqayıt
+AJ55,rayon rayonu,Şuşa
+AJ56,city şəhəri,Şuşa
+AJ57,rayon rayonu,Tərtər
+AJ58,rayon rayonu,Tovuz
+AJ59,rayon rayonu,Ucar
+AJ60,rayon rayonu,Xaçmaz
+AJ61,city şəhəri,Xankəndi
+AJ62,rayon rayonu,Xanlar
+AJ63,rayon rayonu,Xızı
+AJ64,rayon rayonu,Xocalı
+AJ65,rayon rayonu,Xocavənd
+AJ66,rayon rayonu,Yardımlı
+AJ67,rayon rayonu,Yevlax
+AJ68,city şəhəri,Yevlax
+AJ69,rayon rayonu,Zəngilan
+AJ70,rayon rayonu,Zaqatala
+AJ71,rayon rayonu,Zərdab
+AL00,country,ALBANIA
+AL40,county qark,Berat
+AL41,county qark,Dibër
+AL42,county qark,Durrës
+AL43,county qark,Elbasan
+AL44,county qark,Fier
+AL45,county qark,Gjirokastër
+AL46,county qark,Korçë
+AL47,county qark,Kukës
+AL48,county qark,Lezhë
+AL49,county qark,Shkodër
+AL50,county qark,Tiranë
+AL51,county qark,Vlorë
+AM00,country,ARMENIA
+AM01,district marz,Aragatsotn
+AM02,district marz,Ararat
+AM03,district marz,Armavir
+AM04,district marz,Geghark'unik'
+AM05,district marz,Kotayk'
+AM06,district marz,Lorri
+AM07,district marz,Shirak
+AM08,district marz,Syunik'
+AM09,district marz,Tavush
+AM10,district marz,Vayots' Dzor
+AM11,city k'aghak',Yerevan
+AN00,country,ANDORRA
+AN02,parish parroquia,Canillo
+AN03,parish parroquia,Encamp
+AN04,parish parroquia,La Massana
+AN05,parish parroquia,Ordino
+AN06,parish parroquia,Sant Julia de Loria
+AN07,parish parroquia,Andorra la Vella
+AN08,parish parroquia,Escaldes-Engordany
+AO00,country,ANGOLA
+AO01,province provincia,Benguela
+AO02,province provincia,Bie
+AO03,province provincia,Cabinda
+AO04,province provincia,Cuando Cubango
+AO05,province provincia,Cuanza Norte
+AO06,province provincia,Cuanza Sul
+AO07,province provincia,Cunene
+AO08,province provincia,Huambo
+AO09,province provincia,Huila
+AO12,province provincia,Malanje
+AO13,province provincia,Namibe
+AO14,province provincia,Moxico
+AO15,province provincia,Uige
+AO16,province provincia,Zaire
+AO17,province provincia,Lunda Norte
+AO18,province provincia,Lunda Sul
+AO19,province provincia,Bengo
+AO20,province provincia,Luanda
+AQ00,country,AMERICAN SAMOA
+AR00,country,ARGENTINA
+AR01,province provincia,Buenos Aires
+AR02,province provincia,Catamarca
+AR03,province provincia,Chaco
+AR04,province provincia,Chubut
+AR05,province provincia,Cordoba
+AR06,province provincia,Corrientes
+AR07,district distrito,Distrito Federal
+AR08,province provincia,Entre Rios
+AR09,province provincia,Formosa
+AR10,province provincia,Jujuy
+AR11,province provincia,La Pampa
+AR12,province provincia,La Rioja
+AR13,province provincia,Mendoza
+AR14,province provincia,Misiones
+AR15,province provincia,Neuquen
+AR16,province provincia,Rio Negro
+AR17,province provincia,Salta
+AR18,province provincia,San Juan
+AR19,province provincia,San Luis
+AR20,province provincia,Santa Cruz
+AR21,province provincia,Santa Fe
+AR22,province provincia,Santiago del Estero
+AR23,province provincia,Tierra del Fuego Antártida e Islas del Atlántico Sur
+AR24,province provincia,Tucuman
+AS00,country,AUSTRALIA
+AS01,territory,Australian Capital Territory
+AS02,state,New South Wales
+AS03,territory,Northern Territory
+AS04,state,Queensland
+AS05,state,South Australia
+AS06,state,Tasmania
+AS07,state,Victoria
+AS08,state,Western Australia
+AT00,country,ASHMORE AND CARTIER ISLANDS
+AU00,country,AUSTRIA
+AU01,state bundesland,Burgenland
+AU02,state bundesland,Karnten
+AU03,state bundesland,Niederosterreich
+AU04,state bundesland,Oberosterreich
+AU05,state bundesland,Salzburg
+AU06,state bundesland,Steiermark
+AU07,state bundesland,Tirol
+AU08,state bundesland,Vorarlberg
+AU09,state bundesland,Wien
+AV00,country,ANGUILLA
+AX00,country,AKROTIRI SOVEREIGN BASE AREA
+AY00,country,ANTARCTICA
+BA00,country,BAHRAIN
+BA01,municipality,Al Hadd
+BA02,municipality,Al Manamah
+BA05,municipality,Jidd Hafs
+BA06,municipality,Sitrah
+BA08,municipality,Al Mintaqah al Gharbiyah
+BA09,municipality,Mintaqat Juzur Hawar
+BA10,municipality,Al Mintaqah ash Shamaliyah
+BA11,municipality,Al Mintaqah al Wusta
+BA12,municipality,Madinat `Isa
+BA13,municipality,Ar Rifa` wa al Mintaqah al Janubiyah
+BA14,municipality,Madinat Hamad
+BA15,municipality,Al Muḩarraq
+BA16,municipality,Al ‘Āşimah
+BA17,municipality,Al Janūbīyah
+BA18,municipality,Ash Shamālīyah
+BA19,municipality,Al Wusţá
+BB00,country,BARBADOS
+BB01,parish,Christ Church
+BB02,parish,Saint Andrew
+BB03,parish,Saint George
+BB04,parish,Saint James
+BB05,parish,Saint John
+BB06,parish,Saint Joseph
+BB07,parish,Saint Lucy
+BB08,parish,Saint Michael
+BB09,parish,Saint Peter
+BB10,parish,Saint Philip
+BB11,parish,Saint Thomas
+BC00,country,BOTSWANA
+BC01,district,Central
+BC03,district,Ghanzi
+BC04,district,Kgalagadi
+BC05,district,Kgatleng
+BC06,district,Kweneng
+BC08,district,North-East
+BC09,district,South-East
+BC10,district,Southern
+BC11,district,North West
+BD00,country,BERMUDA
+BD01,parish,Devonshire
+BD02,parish,Hamilton
+BD03,municipality,Hamilton
+BD04,parish,Paget
+BD05,parish,Pembroke
+BD06,municipality,Saint George
+BD07,parish,Saint George's
+BD08,parish,Sandys
+BD09,parish,Smiths
+BD10,parish,Southampton
+BD11,parish,Warwick
+BE00,country,BELGIUM
+BE01,province province provincie,Antwerpen
+BE03,province province provincie,Hainaut
+BE04,province province provincie,Liege
+BE05,province province provincie,Limburg
+BE06,province province provincie,Luxembourg
+BE07,province province provincie,Namur
+BE08,province province provincie,Oost-Vlaanderen
+BE09,province province provincie,West-Vlaanderen
+BE10,province province provincie,Brabant Wallon
+BE11,province province provincie,Brussels Hoofdstedelijk Gewest/Région de Bruxelles-Capitale
+BE12,province province provincie,Vlamms-Brabant
+BF00,country,BAHAMAS THE
+BF05,district,Bimini
+BF06,district,Cat Island
+BF10,district,Exuma
+BF13,district,Inagua
+BF15,district,Long Island
+BF16,district,Mayaguana
+BF18,district,Ragged Island
+BF22,district,Harbour Island
+BF23,district,New Providence
+BF24,district,Acklins and Crooked Islands
+BF25,district,Freeport
+BF26,district,Fresh Creek
+BF27,district,Governor's Harbour
+BF28,district,Green Turtle Cay
+BF29,district,High Rock
+BF30,district,Kemps Bay
+BF31,district,Marsh Harbour
+BF32,district,Nichollstown and Berry Islands
+BF33,district,Rock Sound
+BF34,district,Sandy Point
+BF35,district,San Salvador and Rum Cay
+BG00,country,BANGLADESH
+BG81,division,Dhaka
+BG82,division,Khulna
+BG83,division,Rājshāhi
+BG84,division,Chittagong
+BG85,division,Barisāl
+BG86,division,Sylhet
+BH00,country,BELIZE
+BH01,district,Belize
+BH02,district,Cayo
+BH03,district,Corozal
+BH04,district,Orange Walk
+BH05,district,Stann Creek
+BH06,district,Toledo
+BK00,country,BOSNIA AND HERZEGOVINA
+BK01,federation federacija,Federation of Bosnia and Herzegovina [conventional]; Federacija Bosne i Hercegovine [Serbocroatian]
+BK02,republic republika,Republica Srpska
+BL00,country,BOLIVIA
+BL01,department departamento,Chuquisaca
+BL02,department departamento,Cochabamba
+BL03,department departamento,El Beni
+BL04,department departamento,La Paz
+BL05,department departamento,Oruro
+BL06,department departamento,Pando
+BL07,department departamento,Potosi
+BL08,department departamento,Santa Cruz
+BL09,department departamento,Tarija
+BM00,country,BURMA
+BM01,state,Rakhine State
+BM02,state,Chin State
+BM03,division,Ayeyarwady
+BM04,state,Kachin State
+BM05,state,Kayin State
+BM06,state,Kayah State
+BM08,division,Mandalay
+BM10,division,Sagaing
+BM11,state,Shan State
+BM12,division,Tanintharyi
+BM13,state,Mon State
+BM15,division,Magway
+BM16,division,Bago
+BM17,division,Yangon
+BN00,country,BENIN
+BN07,province,Alibori
+BN08,province,Atakora
+BN09,province,Atlantique
+BN10,province,Borgou
+BN11,province,Collines
+BN12,province,Kouffo
+BN13,province,Donga
+BN14,province,Littoral
+BN15,province,Mono
+BN16,province,Ouémé
+BN17,province,Plateau
+BN18,province,Zou
+BO00,country,BELARUS
+BO01,oblast voblasts',Brestskaya Voblasts'
+BO02,oblast voblasts',Homyel'skaya Voblasts'
+BO03,oblast voblasts',Hrodzyenskaya Voblasts'
+BO04,city horad,Minsk
+BO05,oblast voblasts',Minskaya Voblasts'
+BO06,oblast voblasts',Mahilyowskaya Voblasts'
+BO07,oblast voblasts',Vitsyebskaya Voblasts'
+BP00,country,SOLOMON ISLANDS
+BP03,province,Malaita
+BP06,province,Guadalcanal
+BP07,province,Isabel
+BP08,province,Makira
+BP09,province,Temotu
+BP10,province,Central
+BP11,province,Western
+BP12,province,Choiseul
+BP13,province,Rennell and Bellona
+BQ00,country,NAVASSA ISLAND
+BR00,country,BRAZIL
+BR01,federal state estado,Acre
+BR02,federal state estado,Alagoas
+BR03,federal state estado,Amapa
+BR04,federal state estado,Amazonas
+BR05,federal state estado,Bahia
+BR06,federal state estado,Ceara
+BR07,federal district distrito federal,Distrito Federal
+BR08,federal state estado,Espirito Santo
+BR11,federal state estado,Mato Grosso do Sul
+BR13,federal state estado,Maranhao
+BR14,federal state estado,Mato Grosso
+BR15,federal state estado,Minas Gerais
+BR16,federal state estado,Para
+BR17,federal state estado,Paraiba
+BR18,federal state estado,Parana
+BR20,federal state estado,Piaui
+BR21,federal state estado,Rio de Janeiro
+BR22,federal state estado,Rio Grande do Norte
+BR23,federal state estado,Rio Grande do Sul
+BR24,federal state estado,Rondonia
+BR25,federal state estado,Roraima
+BR26,federal state estado,Santa Catarina
+BR27,federal state estado,Sao Paulo
+BR28,federal state estado,Sergipe
+BR29,federal state estado,Goias
+BR30,federal state estado,Pernambuco
+BR31,federal state estado,Tocantins
+BS00,country,BASSAS DA INDIA
+BT00,country,BHUTAN
+BT05,district dzongkhag,Bumthang
+BT06,district dzongkhag,Chhukha
+BT07,district dzongkhag,Chirang
+BT08,district dzongkhag,Daga
+BT09,district dzongkhag,Geylegphug
+BT10,district dzongkhag,Ha
+BT11,district dzongkhag,Lhuntshi
+BT12,district dzongkhag,Mongar
+BT13,district dzongkhag,Paro
+BT14,district dzongkhag,Pemagatsel
+BT15,district dzongkhag,Punakha
+BT16,district dzongkhag,Samchi
+BT17,district dzongkhag,Samdrup
+BT18,district dzongkhag,Shemgang
+BT19,district dzongkhag,Tashigang
+BT20,district dzongkhag,Thimphu
+BT21,district dzongkhag,Tongsa
+BT22,district dzongkhag,Wangdi Phodrang
+BU00,country,BULGARIA
+BU38,province oblast,Blagoevgrad
+BU39,province oblast,Burgas
+BU40,province oblast,Dobrich
+BU41,province oblast,Gabrovo
+BU42,province oblast,Sofiya-Grad
+BU43,province oblast,Khaskovo
+BU44,province oblast,Kŭrdzhali
+BU45,province oblast,Kyustendil
+BU46,province oblast,Lovech
+BU47,province oblast,Montana
+BU48,province oblast,Pazardzhik
+BU49,province oblast,Pernik
+BU50,province oblast,Pleven
+BU51,province oblast,Plovdiv
+BU52,province oblast,Ruse
+BU53,province oblast,Ruse
+BU54,province oblast,Shumen
+BU55,province oblast,Silistra
+BU56,province oblast,Sliven
+BU57,province oblast,Smolyan
+BU58,province oblast,Sofiya
+BU59,province oblast,Stara Zagora
+BU60,province oblast,Tŭrgovishte
+BU61,province oblast,Varna
+BU62,province oblast,Veliko Tŭrnovo
+BU63,province oblast,Vidin
+BU64,province oblast,Vratsa
+BU65,province oblast,Yambol
+BV00,country,BOUVET ISLAND
+BX00,country,BRUNEI
+BX01,district,Belait
+BX02,district,Brunei and Muara
+BX03,district,Temburong
+BX04,district,Tutong
+BY00,country,BURUNDI
+BY02,province,Bujumbura
+BY09,province,Bubanza
+BY10,province,Bururi
+BY11,province,Cankuzo
+BY12,province,Cibitoke
+BY13,province,Gitega
+BY14,province,Karuzi
+BY15,province,Kayanza
+BY16,province,Kirundo
+BY17,province,Makamba
+BY18,province,Muyinga
+BY19,province,Ngozi
+BY20,province,Rutana
+BY21,province,Ruyigi
+BY22,province,Muramvya
+BY23,province,Mwaro
+CA00,country,CANADA
+CA01,province,Alberta
+CA02,province,British Columbia
+CA03,province,Manitoba
+CA04,province,New Brunswick
+CA05,province,Newfoundland and Labrador [English]; Terre-Neuve-et-Labrador [French]
+CA07,province,Nova Scotia
+CA08,province,Ontario
+CA09,province,Prince Edward Island
+CA10,province,Quebec
+CA11,province,Saskatchewan
+CA12,territory,Yukon Territory
+CA13,territory,Northwest Territories
+CA14,province,Nunavut
+CB00,country,CAMBODIA
+CB02,province khétt,Kampong Cham
+CB03,province khétt,Kampong Chhnang
+CB04,province khétt,Kampong Spoe
+CB05,province khétt,Kampong Thum
+CB07,province khétt,Kandal
+CB08,province khétt,Kaoh Kong
+CB09,province khétt,Kracheh
+CB10,province khétt,Mondol Kiri
+CB12,province khétt,Pouthisat
+CB13,province khétt,Preah Vihear
+CB14,province khétt,Prey Veng
+CB17,province khétt,Stoeng Treng
+CB18,province khétt,Svay Rieng
+CB19,province khétt,Takev
+CB21,province khétt,Kâmpôt
+CB22,municipality krŏng,Phnum Pénh
+CB23,province khétt,Rôtânăh Kiri
+CB24,province khétt,Siĕm Réab
+CB25,province khétt,Bântéay Méan Cheăy
+CB26,municipality krŏng,Kêb
+CB27,province khétt,Ŏtdâr Méan Cheăy
+CB28,municipality krŏng,Preăh Seihânŭ
+CB29,province khétt,Bătdâmbâng
+CB30,province khétt,Pailĭn
+CD00,country,CHAD
+CD01,region région,Batha
+CD02,region région,Wadi Fira
+CD03,region région,Borkou-Ennedi-Tibesti
+CD05,region région,Guéra
+CD06,region région,Kanem
+CD07,region région,Lac
+CD08,region région,Logone Occidental
+CD09,region région,Logone Oriental
+CD12,region région,Ouaddaï
+CD13,region région,Salamat
+CD14,region région,Tandjilé
+CD15,region région,Chari-Baguirmi
+CD16,region région,Mayo-Kebbi Est
+CD17,region région,Moyen-Chari
+CD18,region région,Hadjer-Lamis
+CD19,region région,Mandoul
+CD20,region région,Mayo-Kébbi Ouest
+CD21,region région,Ville de N’Djaména
+CE00,country,SRI LANKA
+CE01,district,Amparai
+CE02,district,Anuradhapura
+CE03,district,Badulla
+CE04,district,Batticaloa
+CE06,district,Galle
+CE07,district,Hambantota
+CE09,district,Kalutara
+CE10,district,Kandy
+CE11,district,Kegalla
+CE12,district,Kurunegala
+CE14,district,Matale
+CE15,district,Matara
+CE16,district,Moneragala
+CE17,district,Nuwara Eliya
+CE18,district,Polonnaruwa
+CE19,district,Puttalam
+CE20,district,Ratnapura
+CE21,district,Trincomalee
+CE23,district,Colombo
+CE24,district,Gampaha
+CE25,district,Jaffna
+CE26,district,Mannar
+CE27,district,Mullaittivu
+CE28,district,Vavuniya
+CF00,country,CONGO
+CF01,region region,Bouenza
+CF04,region region,Kouilou
+CF05,region region,Lekoumou
+CF06,region region,Likouala
+CF07,region region,Niari
+CF08,region region,Plateaux
+CF10,region region,Sangha
+CF11,region region,Pool
+CF12,commune,Brazzaville
+CF13,region region,Cuvette
+CF14,commune,Cuvette-Ouest
+CG00,country,CONGO (DEMOCRATIC REPUBLIC OF THE)
+CG01,province province,Bandundu
+CG02,province province,Équateur
+CG03,province province,Kasaï-Occidental
+CG04,province province,Kasaï-Oriental
+CG05,province province,Katanga
+CG06,town ville,Kinshasa
+CG08,province province,Bas-Congo
+CG09,province province,Orientale
+CG10,province province,Maniema
+CG11,province province,Nord-Kivu
+CG12,province province,Sud-Kivu
+CH00,country,CHINA
+CH01,province sheng,Anhui  Anhwei
+CH02,province sheng,Zhejiang  Chekiang
+CH03,province sheng,Jiangxi  Kiangsi
+CH04,province sheng,Jiangsu  Kiangsu
+CH05,province sheng,Jilin  Kirin
+CH06,province sheng,Qinghai  Tsinghai
+CH07,province sheng,Fujian  Fukien
+CH08,province sheng,Heilongjiang  Heilungkiang
+CH09,province sheng,Henan  Honan
+CH10,province sheng,Hebei  Hopeh
+CH11,province sheng,Hunan
+CH12,province sheng,Hubei  Hupeh
+CH13,autonomous region zizhiqu,Xinjiang  Sinkiang
+CH14,autonomous region zizhiqu,Xizang Tibet
+CH15,province sheng,Gansu  Kansu
+CH16,autonomous region zizhiqu,Guangxi  Kwangsi
+CH18,province sheng,Guizhou  Kweichow
+CH19,province sheng,Liaoning
+CH20,autonomous region zizhiqu,Nei Mongol Inner Mongolia
+CH21,autonomous region zizhiqu,Ningxia Ningxia
+CH22,municipality shi,Beijing  Peking
+CH23,municipality shi,Shanghai
+CH24,province sheng,Shanxi  Shansi
+CH25,province sheng,Shandong  Shantung
+CH26,province sheng,Shaanxi  Shensi
+CH28,municipality shi,Tianjin
+CH29,province sheng,Yunnan
+CH30,province sheng,Guangdong  Kwangtung
+CH31,province sheng,Hainan
+CH32,province sheng,Sichuan  Szechwan
+CH33,province sheng,Chongqing
+CI00,country,CHILE
+CI01,region region,Valparaiso
+CI02,region region,Aisen del General Carlos Ibanez del Campo
+CI03,region region,Antofagasta
+CI04,region region,Araucania
+CI05,region region,Atacama
+CI06,region region,Bio-Bio
+CI07,region region,Coquimbo
+CI08,region region,Libertador General Bernardo O'Higgins
+CI10,region region,Magallanes y de la Antártica Chilena
+CI11,region region,Maule
+CI12,region region,Region Metropolitana
+CI14,region region,Los Lagos
+CI15,region region,Tarapacá
+CI16,region region,Arica y Parinacota
+CI17,region region,Los Ríos
+CJ00,country,CAYMAN ISLANDS
+CJ01,district,Creek
+CJ02,district,Eastern
+CJ03,district,Midland
+CJ04,district,South Town
+CJ05,district,Spot Bay
+CJ06,district,Stake Bay
+CJ07,district,West End
+CJ08,district,Western
+CK00,country,COCOS (KEELING) ISLANDS
+CM00,country,CAMEROON
+CM04,province,Est East
+CM05,province,Littoral
+CM07,province,Nord-Ouest North-west
+CM08,province,Ouest West
+CM09,province,Sud-Ouest South-west
+CM10,province,Adamaoua
+CM11,province,Centre
+CM12,province,Extreme-Nord Far North
+CM13,province,Nord North
+CM14,province,Sud South
+CN00,country,COMOROS
+CN01,island,Anjouan
+CN02,island,Grande Comore
+CN03,island,Moheli
+CO00,country,COLOMBIA
+CO01,department departamento,Amazonas
+CO02,department departamento,Antioquia
+CO03,department departamento,Arauca
+CO04,department departamento,Atlantico
+CO08,department departamento,Caqueta
+CO09,department departamento,Cauca
+CO10,department departamento,Cesar
+CO11,department departamento,Choco
+CO12,department departamento,Cordoba
+CO14,department departamento,Guaviare
+CO15,department departamento,Guainia
+CO16,department departamento,Huila
+CO17,department departamento,La Guajira
+CO19,department departamento,Meta
+CO20,department departamento,Narino
+CO21,department departamento,Norte de Santander
+CO22,department departamento,Putumayo
+CO23,department departamento,Quindio
+CO24,department departamento,Risaralda
+CO25,department departamento,San Andres y Providencia
+CO26,department departamento,Santander
+CO27,department departamento,Sucre
+CO28,department departamento,Tolima
+CO29,department departamento,Valle del Cauca
+CO30,department departamento,Vaupes
+CO31,department departamento,Vichada
+CO32,department departamento,Casanare
+CO33,department departamento,Cundinamarca
+CO34,capital district distrito capital,Distrito Capital
+CO35,department departamento,Bolivar
+CO36,department departamento,Boyaca
+CO37,department departamento,Caldas
+CO38,department departamento,Magdalena
+CQ00,country,NORTHERN MARIANA ISLANDS
+CR00,country,CORAL SEA ISLANDS
+CS00,country,COSTA RICA
+CS01,province provincia,Alajuela
+CS02,province provincia,Cartago
+CS03,province provincia,Guanacaste
+CS04,province provincia,Heredia
+CS06,province provincia,Limon
+CS07,province provincia,Puntarenas
+CS08,province provincia,San Jose
+CT00,country,CENTRAL AFRICAN REPUBLIC
+CT01,prefecture prefecture,Bamingui-Bangoran
+CT02,prefecture prefecture,Basse-Kotto
+CT03,prefecture prefecture,Haute-Kotto
+CT04,prefecture prefecture,Mambéré-Kadéï
+CT05,prefecture prefecture,Haut-Mbomou
+CT06,prefecture prefecture,Kémo
+CT07,prefecture prefecture,Lobaye
+CT08,prefecture prefecture,Mbomou
+CT09,prefecture prefecture,Nana-Mambere  Nana-Nambere
+CT11,prefecture prefecture,Ouaka
+CT12,prefecture prefecture,Ouham
+CT13,prefecture prefecture,Ouham-Pende
+CT14,prefecture prefecture,Vakaga
+CT15,economic prefecture prefecture economique,Nana-Grébingui
+CT16,economic prefecture prefecture economique,Sangha-Mbaéré
+CT17,prefecture prefecture,Ombella-Mpoko
+CT18,commune,Bangui
+CU00,country,CUBA
+CU01,province provincia,Pinar del Rio
+CU02,province provincia,Ciudad de la Habana
+CU03,province provincia,Matanzas
+CU04,special municipality municipio especial,Isla de la Juventud
+CU05,province provincia,Camaguey
+CU07,province provincia,Ciego de Avila
+CU08,province provincia,Cienfuegos
+CU09,province provincia,Granma
+CU10,province provincia,Guantanamo
+CU11,province provincia,La Habana
+CU12,province provincia,Holguin
+CU13,province provincia,Las Tunas
+CU14,province provincia,Sancti Spiritus
+CU15,province provincia,Santiago de Cuba
+CU16,province provincia,Villa Clara
+CV00,country,CAPE VERDE
+CV01,district concelho,Boa Vista
+CV02,district concelho,Brava
+CV04,district concelho,Maio
+CV05,district concelho,Paul
+CV07,district concelho,Ribeira Grande
+CV08,district concelho,Sal
+CV10,district concelho,Sao Nicolau
+CV11,district concelho,Sao Vicente
+CV13,district concelho, Mosteiros
+CV14,district concelho,Praia
+CV15,district concelho,Santa Catarina
+CV16,district concelho,Santa Cruz
+CV17,district concelho,São Domingos
+CV18,district concelho,São Filipe
+CV19,district concelho,São Miguel
+CV20,district concelho,Tarrafal
+CW00,country,COOK ISLANDS
+CY00,country,CYPRUS
+CY01,district,Famagusta
+CY02,district,Kyrenia
+CY03,district,Larnaca
+CY04,district,Nicosia
+CY05,district,Limassol
+CY06,district,Paphos
+DA00,country,DENMARK
+DA17,region region:,Hovedstaden
+DA18,region region:,Midtjyllen
+DA19,region region:,Nordjylland
+DA20,region region:,Sjælland
+DA21,region region:,Syddanmark
+DJ00,country,DJIBOUTI
+DJ01,cercle,Ali Sabieh
+DJ04,cercle,Obock
+DJ05,cercle,Tadjoura
+DJ06,cercle,Dikhil
+DJ07,cercle,Djibouti
+DJ08,region région,Arta
+DO00,country,DOMINICA
+DO02,parish,Saint Andrew
+DO03,parish,Saint David
+DO04,parish,Saint George
+DO05,parish,Saint John
+DO06,parish,Saint Joseph
+DO07,parish,Saint Luke
+DO08,parish,Saint Mark
+DO09,parish,Saint Patrick
+DO10,parish,Saint Paul
+DO11,parish,Saint Peter
+DQ00,country,JARVIS ISLAND
+DR00,country,DOMINICAN REPUBLIC
+DR01,province provincia,Azua
+DR02,province provincia,Bahoruco
+DR03,province provincia,Barahona
+DR04,province provincia,Dajabon
+DR06,province provincia,Duarte
+DR08,province provincia,Espaillat
+DR09,province provincia,Independencia
+DR10,province provincia,La Altagracia
+DR11,province provincia,Elias Pina
+DR12,province provincia,La Romana
+DR14,province provincia,Maria Trinidad Sanchez
+DR15,province provincia,Monte Cristi
+DR16,province provincia,Pedernales
+DR18,province provincia,Puerto Plata
+DR19,province provincia,Salcedo
+DR20,province provincia,Samana
+DR21,province provincia,Sanchez Ramirez
+DR23,province provincia,San Juan
+DR24,province provincia,San Pedro De Macoris
+DR25,province provincia,Santiago
+DR26,province provincia,Santiago Rodriguez
+DR27,province provincia,Valverde
+DR28,province provincia,El Seibo
+DR29,province provincia,Hato Mayor
+DR30,province provincia,La Vega
+DR31,province provincia,Monsenor Nouel
+DR32,province provincia,Monte Plata
+DR33,province provincia,San Cristobal
+DR34,district distrito,Distrito Nacional
+DR35,province provincia,Peravia
+DR36,province provincia,San José de Ocoa
+DR37,province provincia,Santo Domingo
+DX00,country,DHEKELIA SOVEREIGN BASE AREA
+EC00,country,ECUADOR
+EC01,province provincia,Galapagos
+EC02,province provincia,Azuay
+EC03,province provincia,Bolivar
+EC04,province provincia,Canar
+EC05,province provincia,Carchi
+EC06,province provincia,Chimborazo
+EC07,province provincia,Cotopaxi
+EC08,province provincia,El Oro
+EC09,province provincia,Esmeraldas
+EC10,province provincia,Guayas
+EC11,province provincia,Imbabura
+EC12,province provincia,Loja
+EC13,province provincia,Los Rios
+EC14,province provincia,Manabi
+EC15,province provincia,Morona-Santiago
+EC17,province provincia,Pastaza
+EC18,province provincia,Pichincha
+EC19,province provincia,Tungurahua
+EC20,province provincia,Zamora-Chinchipe
+EC22,province provincia,Sucumbios
+EC23,province provincia,Napo
+EC24,province provincia,Orellana
+EG00,country,EGYPT
+EG01,governorate muhafazah,Ad Daqahliyah
+EG02,governorate muhafazah,Al Bahr al Ahmar
+EG03,governorate muhafazah,Al Buhayrah
+EG04,governorate muhafazah,Al Fayyum
+EG05,governorate muhafazah,Al Gharbiyah
+EG06,governorate muhafazah,Al Iskandariyah
+EG07,governorate muhafazah,Al Isma'iliyah
+EG08,governorate muhafazah,Al Jizah
+EG09,governorate muhafazah,Al Minufiyah
+EG10,governorate muhafazah,Al Minya
+EG11,governorate muhafazah,Al Qahirah
+EG12,governorate muhafazah,Al Qalyubiyah
+EG13,governorate muhafazah,Al Wadi al Jadid
+EG14,governorate muhafazah,Ash Sharqiyah
+EG15,governorate muhafazah,As Suways
+EG16,governorate muhafazah,Aswan
+EG17,governorate muhafazah,Asyut
+EG18,governorate muhafazah,Bani Suwayf
+EG19,governorate muhafazah,Bur Sa'id
+EG20,governorate muhafazah,Dumyat
+EG21,governorate muhafazah,Kafr ash Shaykh
+EG22,governorate muhafazah,Matruh
+EG23,governorate muhafazah,Qina
+EG24,governorate muhafazah,Suhaj
+EG26,governorate muhafazah,Janub Sina'
+EG27,governorate muhafazah,Shamal Sina'
+EI00,country,IRELAND
+EI01,county,Carlow
+EI02,county,Cavan
+EI03,county,Clare
+EI04,county,Cork
+EI06,county,Donegal
+EI07,county,Dublin
+EI10,county,Galway
+EI11,county,Kerry
+EI12,county,Kildare
+EI13,county,Kilkenny
+EI14,county,Leitrim
+EI15,county,Laois
+EI16,county,Limerick
+EI18,county,Longford
+EI19,county,Louth
+EI20,county,Mayo
+EI21,county,Meath
+EI22,county,Monaghan
+EI23,county,Offaly
+EI24,county,Roscommon
+EI25,county,Sligo
+EI26,county,Tipperary
+EI27,county,Waterford
+EI29,county,Westmeath
+EI30,county,Wexford
+EI31,county,Wicklow
+EK00,country,EQUATORIAL GUINEA
+EK03,province provincia,Annobon
+EK04,province provincia,Bioko Norte
+EK05,province provincia,Bioko Sur
+EK06,province provincia,Centro Sur
+EK07,province provincia,Kie-Ntem
+EK08,province provincia,Litoral
+EK09,province provincia,Wele-Nzas
+EN00,country,ESTONIA
+EN01,county maa,Harjumaa
+EN02,county maa,Hiiumaa
+EN03,county maa,Ida-Virumaa
+EN04,county maa,Jarvamaa
+EN05,county maa,Jogevamaa
+EN07,county maa,Laanemaa
+EN08,county maa,Laane-Virumaa
+EN11,county maa,Parnumaa
+EN12,county maa,Polvamaa
+EN13,county maa,Raplamaa
+EN14,county maa,Saaremaa
+EN18,county maa,Tartumaa
+EN19,county maa,Valgamaa
+EN20,county maa,Viljandimaa
+EN21,county maa,Vorumaa
+ER00,country,ERITREA
+ER01,region zoba,Ānseba
+ER02,region zoba,Debub
+ER03,region zoba,Debubawī K’eyih Bahrī
+ER04,region zoba,Gash Barka
+ER05,region zoba,Ma'ākel
+ER06,region zoba,Semēnawī K’eyih Bahrī
+ES00,country,EL SALVADOR
+ES01,department departamento,Ahuachapan
+ES02,department departamento,Cabanas
+ES03,department departamento,Chalatenango
+ES04,department departamento,Cuscatlan
+ES05,department departamento,La Libertad
+ES06,department departamento,La Paz
+ES07,department departamento,La Union
+ES08,department departamento,Morazan
+ES09,department departamento,San Miguel
+ES10,department departamento,San Salvador
+ES11,department departamento,Santa Ana
+ES12,department departamento,San Vicente
+ES13,department departamento,Sonsonate
+ES14,department departamento,Usulutan
+ET00,country,ETHIOPIA
+ET44,administration āstedader,Ādīs Ābeba
+ET45,state kilil,Āfar
+ET46,state kilil,Āmara
+ET47,state kilil,Bīnshangul Gumuz
+ET48,administration āstedader,Dirē Dawa
+ET49,state kilil,Gambēla Hizboch
+ET50,state kilil,Hārerī Hizb
+ET51,state kilil,Oromīya
+ET52,state kilil,Sumalē
+ET53,state kilil,Tigray
+ET54,state kilil,YeDebub Bihēroch Bihēreseboch na Hizboch
+EU00,country,EUROPA ISLAND
+EZ00,country,CZECH REPUBLIC
+EZ52,capital city hlavní město,Hlavní Město Praha
+EZ78,region kraj,Jihomoravký Kraj
+EZ79,region kraj,Jihočeský Kraj
+EZ80,region kraj,Vysočina
+EZ81,region kraj,Karlovarský Kraj
+EZ82,region kraj,Královéhradecký Kraj
+EZ83,region kraj,Liberecký Kraj
+EZ84,region kraj,Olomoucký Kraj
+EZ85,region kraj,Moravskolezský Kraj
+EZ86,region kraj,Pardubický Kraj
+EZ87,region kraj,Plzeňský Kraj
+EZ88,region kraj,Středočeský Kraj
+EZ89,region kraj,Ústecký Kraj
+EZ90,region kraj,Zlínský Kraj
+FG00,country,FRENCH GUIANA
+FI00,country,FINLAND
+FI01,province laani,Ahvenanmaa
+FI06,province laani,Lappi
+FI08,province laani,Oulun Lääni
+FI13,province laani,Etelä-Suomen Lääni
+FI14,province laani,Itä-Suomen Lääni
+FI15,province laani,Länsi-Suomen Lääni
+FJ00,country,FIJI
+FJ01,division,Central
+FJ02,division,Eastern
+FJ03,division,Northern
+FJ04,dependency,Rotuma
+FJ05,division,Western
+FK00,country,FALKLAND ISLANDS (ISLAS MALVINAS)
+FM00,country,FEDERATED STATES OF MICRONESIA
+FM01,island,Kosrae
+FM02,island,Pohnpei
+FM03,island,Chuuk
+FM04,island,Yap
+FO00,country,FAROE ISLANDS
+FP00,country,FRENCH POLYNESIA
+FQ00,country,BAKER ISLAND
+FR00,country,FRANCE
+FR97,region region,Aquitaine
+FR98,region region,Auvergne
+FR99,region region,Basse-Normandie
+FRA1,region region,Bourgogne
+FRA2,region region,Bretagne
+FRA3,region region,Centre
+FRA4,region region,Champagne-Ardenne
+FRA5,region region,Corse
+FRA6,region region,Franche-Comte
+FRA7,region region,Haute-Normandie
+FRA8,region region,Ile-de-France
+FRA9,region region,Languedoc-Roussillon
+FRB1,region region,Limousin
+FRB2,region region,Lorraine
+FRB3,region region,Midi-Pyrenees
+FRB4,region region,Nord-Pas-de-Calais
+FRB5,region region,Pays de la Loire
+FRB6,region region,Picardie
+FRB7,region region,Poitou-Charentes
+FRB8,region region,Provence-Alpes-Cote d'Azur
+FRB9,region region,Rhone-Alpes
+FRC1,region region,Alsace
+FS00,country,FRENCH SOUTHERN AND ANTARCTIC LANDS
+GA00,country,GAMBIA THE
+GA01,city,Banjul
+GA02,division,Lower River
+GA03,division,Central River
+GA04,division,Upper River
+GA05,division,Western
+GA07,division,North Bank
+GB00,country,GABON
+GB01,province,Estuaire
+GB02,province,Haut-Ogooue
+GB03,province,Moyen-Ogooue
+GB04,province,Ngounie
+GB05,province,Nyanga
+GB06,province,Ogooue-Ivindo
+GB07,province,Ogooue-Lolo
+GB08,province,Ogooue-Maritime
+GB09,province,Woleu-Ntem
+GG00,country,GEORGIA
+GG01,region raioni,Abashis Raioni
+GG02,autonomous republic avtonomiuri respublika,Abkhazia
+GG03,region raioni,Adigenis Raioni
+GG04,autonomous republic avtonomiuri respublika,Ajaria
+GG05,region raioni,Akhalgoris Raioni
+GG06,region raioni,Akhalk'alak'is Raioni
+GG07,region raioni,Akhalts'ikhis Raioni
+GG08,region raioni,Akhmetis Raioni
+GG09,region raioni,Ambrolauris Raioni
+GG10,region raioni,Aspindzis Raioni
+GG11,region raioni,Baghdat'is Raioni
+GG12,region raioni,Bolnisis Raioni
+GG13,region raioni,Borjomis Raioni
+GG14,city k'alak'i,Chiat'ura
+GG15,region raioni,Ch'khorotsqus Raioni
+GG16,region raioni,Ch'okhatauris Raioni
+GG17,region raioni,Dedop'listsqaros Raioni
+GG18,region raioni,Dmanisis Raioni
+GG19,region raioni,Dushet'is Raioni
+GG20,region raioni,Gardabanis Raioni
+GG21,city k'alak'i,Gori
+GG22,region raioni,Goris Raioni
+GG23,region raioni,Gurjaanis Raioni
+GG24,region raioni,Javis Raioni
+GG25,region raioni,K'arelis Raioni
+GG26,region raioni,Kaspis Raioni
+GG27,region raioni,Kharagaulis Raioni
+GG28,region raioni,Khashuris Raioni
+GG29,region raioni,Khobis Raioni
+GG30,region raioni,Khonis Raioni
+GG31,city k'alak'i,K'ut'aisi
+GG32,region raioni,Lagodekhis Raioni
+GG33,region raioni,Lanch'khut'is Raioni
+GG34,region raioni,Lentekhis Raioni
+GG35,region raioni,Marneulis Raioni
+GG36,region raioni,Martvilis Raioni
+GG37,region raioni,Mestiis Raioni
+GG38,region raioni,Mts'khet'is Raioni
+GG39,region raioni,Ninotsmindis Raioni
+GG40,region raioni,Onis Raioni
+GG41,region raioni,Ozurget'is Raioni
+GG42,city k'alak'i,P'ot'i
+GG43,region raioni,Qazbegis Raioni
+GG44,region raioni,Qvarlis Raioni
+GG45,city k'alak'i,Rust'avi
+GG46,region raioni,Sach'kheris Raioni
+GG47,region raioni,Sagarejos Raioni
+GG48,region raioni,Samtrediis Raioni
+GG49,region raioni,Senakis Raioni
+GG50,region raioni,Sighnaghis Raioni
+GG51,city k'alak'i,T'bilisi
+GG52,region raioni,T'elavis Raioni
+GG53,region raioni,T'erjolis Raioni
+GG54,region raioni,T'et'ritsqaros Raioni
+GG55,region raioni,T'ianet'is Raioni
+GG56,city k'alak'i,Tqibuli
+GG57,region raioni,Ts'ageris Raioni
+GG58,region raioni,Tsalenjikhis Raioni
+GG59,region raioni,Tsalkis Raioni
+GG60,city k'alak'i,Tsqaltubo
+GG61,region raioni,Vanis Raioni
+GG62,region raioni,Zestap'onis Raioni
+GG63,city k'alak'i,Zugdidi
+GG64,region raioni,Zugdidis Raioni
+GH00,country,GHANA
+GH01,region,Greater Accra
+GH02,region,Ashanti
+GH03,region,Brong-Ahafo
+GH04,region,Central
+GH05,region,Eastern
+GH06,region,Northern
+GH08,region,Volta
+GH09,region,Western
+GH10,region,Upper East
+GH11,region,Upper West
+GI00,country,GIBRALTAR
+GJ00,country,GRENADA
+GJ01,parish,Saint Andrew
+GJ02,parish,Saint David
+GJ03,parish,Saint George
+GJ04,parish,Saint John
+GJ05,parish,Saint Mark
+GJ06,parish,Saint Patrick
+GK00,country,GUERNSEY
+GL00,country,GREENLAND
+GL01,municipality,Nordgronland
+GL02,municipality,Ostgronland
+GL03,municipality,Vestgronland
+GM00,country,GERMANY
+GM01,state land,Baden-Wurttemberg
+GM02,state land,Bayern  Bavaria
+GM03,state land,Bremen
+GM04,state land,Hamburg
+GM05,state land,Hessen
+GM06,state land,Niedersachsen
+GM07,state land,Nordrhein-Westfalen
+GM08,state land,Rheinland-Pfalz
+GM09,state land,Saarland
+GM10,state land,Schleswig-Holstein
+GM11,state land,Brandenburg
+GM12,state land,Mecklenburg-Vorpommern
+GM13,state land,Sachsen
+GM14,state land,Sachsen-Anhalt
+GM15,state land,Thuringen
+GM16,state land,Berlin
+GO00,country,GLORIOSO ISLANDS
+GP00,country,GUADELOUPE
+GQ00,country,GUAM
+GR00,country,GREECE
+GR01,department nomos,Evros
+GR02,department nomos,Rodhopi
+GR03,department nomos,Xanthi
+GR04,department nomos,Drama
+GR05,department nomos,Serrai
+GR06,department nomos,Kilkis
+GR07,department nomos,Pella
+GR08,department nomos,Florina
+GR09,department nomos,Kastoria
+GR10,department nomos,Grevena
+GR11,department nomos,Kozani
+GR12,department nomos,Imathia
+GR13,department nomos,Thessaloniki
+GR14,department nomos,Kavala
+GR15,department nomos,Khalkidhiki
+GR16,department nomos,Pieria
+GR17,department nomos,Ioannina
+GR18,department nomos,Thesprotia
+GR19,department nomos,Preveza
+GR20,department nomos,Arta
+GR21,department nomos,Larisa
+GR22,department nomos,Trikala
+GR23,department nomos,Kardhitsa
+GR24,department nomos,Magnisia
+GR25,department nomos,Kerkira
+GR26,department nomos,Levkas
+GR27,department nomos,Kefallinia
+GR28,department nomos,Zakinthos
+GR29,department nomos,Fthiotis
+GR30,department nomos,Evritania
+GR31,department nomos,Aitolia kai Akarnania
+GR32,department nomos,Fokis
+GR33,department nomos,Voiotia
+GR34,department nomos,Evvoia
+GR35,department nomos,Attiki
+GR36,department nomos,Argolis
+GR37,department nomos,Korinthia
+GR38,department nomos,Akhaia
+GR39,department nomos,Ilia
+GR40,department nomos,Messinia
+GR41,department nomos,Arkadhia
+GR42,department nomos,Lakonia
+GR43,department nomos,Khania
+GR44,department nomos,Rethimni
+GR45,department nomos,Iraklion
+GR46,department nomos,Lasithi
+GR47,department nomos,Dhodhekanisos
+GR48,department nomos,Samos
+GR49,department nomos,Kikladhes
+GR50,department nomos,Khios
+GR51,department nomos,Lesvos
+GT00,country,GUATEMALA
+GT01,department departamento,Alta Verapaz
+GT02,department departamento,Baja Verapaz
+GT03,department departamento,Chimaltenango
+GT04,department departamento,Chiquimula
+GT05,department departamento,El Progreso
+GT06,department departamento,Escuintla
+GT07,department departamento,Guatemala
+GT08,department departamento,Huehuetenango
+GT09,department departamento,Izabal
+GT10,department departamento,Jalapa
+GT11,department departamento,Jutiapa
+GT12,department departamento,Peten
+GT13,department departamento,Quetzaltenango
+GT14,department departamento,Quiche
+GT15,department departamento,Retalhuleu
+GT16,department departamento,Sacatepequez
+GT17,department departamento,San Marcos
+GT18,department departamento,Santa Rosa
+GT19,department departamento,Solola
+GT20,department departamento,Suchitepequez
+GT21,department departamento,Totonicapan
+GT22,department departamento,Zacapa
+GV00,country,GUINEA
+GV01,prefecture préfecture,Beyla
+GV02,prefecture préfecture,Boffa
+GV03,prefecture préfecture,Boke
+GV04,capital - special zone capitale d'état - zone spéciale,Conakry
+GV05,prefecture préfecture,Dabola
+GV06,prefecture préfecture,Dalaba
+GV07,prefecture préfecture,Dinguiraye
+GV09,prefecture préfecture,Faranah
+GV10,prefecture préfecture,Forecariah
+GV11,prefecture préfecture,Fria
+GV12,prefecture préfecture,Gaoual
+GV13,prefecture préfecture,Gueckedou
+GV15,prefecture préfecture,Kerouane
+GV16,prefecture préfecture,Kindia
+GV17,prefecture préfecture,Kissidougou
+GV18,prefecture préfecture,Koundara
+GV19,prefecture préfecture,Kouroussa
+GV21,prefecture préfecture,Macenta
+GV22,prefecture préfecture,Mali
+GV23,prefecture préfecture,Mamou
+GV25,prefecture préfecture,Pita
+GV27,prefecture préfecture,Telimele
+GV28,prefecture préfecture,Tougue
+GV29,prefecture préfecture,Yomou
+GV30,prefecture préfecture,Coyah
+GV31,prefecture préfecture,Dubréka
+GV32,prefecture préfecture,Kankan
+GV33,prefecture préfecture,Koubia
+GV34,prefecture préfecture,Labé
+GV35,prefecture préfecture,Lélouma
+GV36,prefecture préfecture,Lola
+GV37,prefecture préfecture,Mandiana
+GV38,prefecture préfecture,Nzérékoré
+GV39,prefecture préfecture,Siguiri
+GY00,country,GUYANA
+GY10,region,Barima-Waini
+GY11,region,Cuyuni-Mazaruni
+GY12,region,Demerara-Mahaica
+GY13,region,East Berbice-Corentyne
+GY14,region,Essequibo Islands-West Demerara
+GY15,region,Mahaica-Berbice
+GY16,region,Pomeroon-Supenaam
+GY17,region,Potaro-Siparuni
+GY18,region,Upper Demerara-Berbice
+GY19,region,Upper Takutu-Upper Essequibo
+GZ00,country,GAZA STRIP
+HA00,country,HAITI
+HA03,department departement,Nord-Ouest
+HA06,department departement,Artibonite
+HA07,department departement,Centre
+HA09,department departement,Nord
+HA10,department departement,Nord-Est
+HA11,department departement,Ouest
+HA12,department departement,Sud
+HA13,department departement,Sud-Est
+HA14,department departement,Grand' Anse
+HA15,department departement,Nippes
+HK00,country,HONG KONG
+HM00,country,HEARD ISLAND AND MCDONALD ISLANDS
+HO00,country,HONDURAS
+HO01,department departamento,Atlantida
+HO02,department departamento,Choluteca
+HO03,department departamento,Colon
+HO04,department departamento,Comayagua
+HO05,department departamento,Copan
+HO06,department departamento,Cortes
+HO07,department departamento,El Paraiso
+HO08,department departamento,Francisco Morazan
+HO09,department departamento,Gracias a Dios
+HO10,department departamento,Intibuca
+HO11,department departamento,Islas de la Bahia
+HO12,department departamento,La Paz
+HO13,department departamento,Lempira
+HO14,department departamento,Ocotepeque
+HO15,department departamento,Olancho
+HO16,department departamento,Santa Barbara
+HO17,department departamento,Valle
+HO18,department departamento,Yoro
+HQ00,country,HOWLAND ISLAND
+HR00,country,CROATIA
+HR01,county županija,Bjelovarsko-Bilogorska
+HR02,county županija,Brodsko-Posavska
+HR03,county županija,Dubrovačko-Neretvanska
+HR04,county županija, Istarska
+HR05,county županija, Karlovačka
+HR06,county županija, Koprivničko-Križevačka
+HR07,county županija, Krapinsko-Zagorska
+HR08,county županija,Ličko-Senjska
+HR09,county županija,Međimurska
+HR10,county županija,Osječko-Baranjska
+HR11,county županija,Požeško-Slavonska
+HR12,county županija,Primorsko-Goranska
+HR13,county županija,Šibensko-Kninska
+HR14,county županija,Sisačko-Moslavačka
+HR15,county županija,Splitsko-Dalmatinska
+HR16,county županija,Varaždinska
+HR17,county županija,Virovitičko-Podravska
+HR18,county županija,Vukovarsko-Srijemska
+HR19,county županija,Zadarska
+HR20,county županija,Zagrebačka
+HR21,city grad,Grad Zagreb
+HU00,country,HUNGARY
+HU01,county megye,Bacs-Kiskun
+HU02,county megye,Baranya
+HU03,county megye,Bekes
+HU04,county megye,Borsod-Abauj-Zemplen
+HU05,capital city fovaros,Budapest
+HU06,county megye,Csongrad
+HU07,urban county megyei varos,Debrecen
+HU08,county megye,Fejer
+HU09,county megye,Gyor-Moson-Sopron
+HU10,county megye,Hajdu-Bihar
+HU11,county megye,Heves
+HU12,county megye,Komarom-Esztergom
+HU13,urban county megyei varos,Miskolc
+HU14,county megye,Nograd
+HU15,urban county megyei varos,Pecs
+HU16,county megye,Pest
+HU17,county megye,Somogy
+HU18,county megye,Szabolcs-Szatmar-Bereg
+HU19,urban county megyei varos,Szeged
+HU20,county megye,Jasz-Nagykun-Szolnok
+HU21,county megye,Tolna
+HU22,county megye,Vas
+HU23,county megye,Veszprem
+HU24,county megye,Zala
+HU25,urban county megyei varos,Gyor
+HU26,urban county megyei varos,Bekescsaba
+HU27,urban county megyei varos,Dunaujvaros
+HU28,urban county megyei varos,Eger
+HU29,urban county megyei varos,Hodmezovasarhely
+HU30,urban county megyei varos,Kaposvar
+HU31,urban county megyei varos,Kecskemet
+HU32,urban county megyei varos,Nagykanizsa
+HU33,urban county megyei varos,Nyiregyhaza
+HU34,urban county megyei varos,Sopron
+HU35,urban county megyei varos,Szekesfehervar
+HU36,urban county megyei varos,Szolnok
+HU37,urban county megyei varos,Szombathely
+HU38,urban county megyei varos,Tatabanya
+HU39,urban county megyei varos,Veszprem
+HU40,urban county megyei varos,Zalaegerszeg
+HU41,county megye,Salgótarján
+HU42,county megye,Szekszárd
+HU43,county megye,Erd
+IC00,country,ICELAND
+IC38,region,Austurland
+IC39,region,Höfuðborgarsvæði
+IC40,region,Norðurland Eystra
+IC41,region,Norðurland Vestra
+IC42,region,Suðurland
+IC43,region,Suðurnes
+IC44,region,Vestfirðir
+IC45,region,Vesturland
+ID00,country,INDONESIA
+ID01,special region daerah istimewa,Aceh  Atjeh
+ID02,province propinsi,Bali
+ID03,province propinsi,Bengkulu
+ID04,special district daerah khusus ibukota,Jakarta Raya  Djakarta Raya
+ID05,province propinsi,Jambi  Djambi
+ID07,province propinsi,Jawa Tengah  Djawa Tengah
+ID08,province propinsi,Jawa Timur  Djawa Timur
+ID10,special region daerah istimewa,Yogyakarta  Jogjakarta
+ID11,province propinsi,Kalimantan Barat
+ID12,province propinsi,Kalimantan Selatan
+ID13,province propinsi,Kalimantan Tengah
+ID14,province propinsi,Kalimantan Timur
+ID15,province propinsi,Lampung
+ID17,province propinsi,Nusa Tenggara Barat
+ID18,province propinsi,Nusa Tenggara Timur
+ID21,province propinsi,Sulawesi Tengah
+ID22,province propinsi,Sulawesi Tenggara
+ID24,province propinsi,Sumatera Barat
+ID26,province propinsi,Sumatera Utara
+ID28,province propinsi,Maluku
+ID29,province propinsi,Maluku Utara
+ID30,province propinsi,Jawa Barat  Djawa Barat
+ID31,province propinsi,Sulawesi Utara
+ID32,province propinsi,Sumatera Selatan
+ID33,province propinsi,Banten
+ID34,province propinsi,Gorontalo
+ID35,province propinsi,Kepulauan Bangka Belitung
+ID36,province propinsi,Papua
+ID37,province propinsi,Riau
+ID38,province propinsi,Sulawesi Selatan
+ID39,province propinsi,Irian Jaya Barat
+ID40,province propinsi,Kepulauan Riau
+ID41,province propinsi,Sulawesi Barat
+IN00,country,INDIA
+IN01,union territory,Andaman and Nicobar Islands
+IN02,state,Andhra Pradesh
+IN03,state,Assam
+IN05,union territory,Chandigarh
+IN06,union territory,Dadra and Nagar Haveli
+IN07,national capital territory,Delhi
+IN09,state,Gujarat
+IN10,state,Haryana
+IN11,state,Himachal Pradesh
+IN12,state,Jammu and Kashmir
+IN13,state,Kerala
+IN14,union territory,Lakshadweep  Laccadive Minacoy and Amindivi Islands
+IN16,state,Maharashtra
+IN17,state,Manipur
+IN18,state,Meghalaya
+IN19,state,Karnataka
+IN20,state,Nagaland
+IN21,state,Orissa
+IN22,union territory,Puducherry
+IN23,state,Punjab
+IN24,state,Rajasthan
+IN25,state,Tamil Nadu  Madras
+IN26,state,Tripura
+IN28,state,West Bengal
+IN29,state,Sikkim
+IN30,state,Arunachal Pradesh
+IN31,union territory,Mizoram
+IN32,union territory,Daman and Diu
+IN33,state,Goa
+IN34,state,Bihār
+IN35,state,Madhya Pradesh
+IN36,state,Uttar Pradesh
+IN37,state,Chhattīsgarh
+IN38,state,Jharkhand
+IN39,state,Uttarakhand
+IO00,country,BRITISH INDIAN OCEAN TERRITORY
+IP00,country,CLIPPERTON ISLAND
+IR00,country,IRAN
+IR01,province ostan,Āz̄ārbāyjān-e Gharbī
+IR03,province ostan,Chahar Mahall va Bakhtiari
+IR04,province ostan,Sistan va Baluchestan
+IR05,province ostan,Kohgīlūyeh va Būyer Aḩmad
+IR07,province ostan,Fars
+IR08,province ostan,Gilan
+IR09,province ostan,Hamadan
+IR10,province ostan,Ilam
+IR11,province ostan,Hormozgan
+IR13,province ostan,Kermānshāh
+IR15,province ostan,Khuzestan
+IR16,province ostan,Kordestan
+IR22,province ostan,Bushehr
+IR23,province ostan,Lorestan
+IR25,province ostan,Semnan
+IR26,province ostan,Tehran
+IR28,province ostan,Esfahan
+IR29,province ostan,Kerman
+IR32,province ostan,Ardabīl
+IR33,province ostan,Āz̄ārbāyjān-e Sharqī
+IR34,province ostan,Markazī
+IR35,province ostan,Māzandarān
+IR36,province ostan,Zanjān
+IR37,province ostan,Golestān
+IR38,province ostan,Qazvīn
+IR39,province ostan,Qom
+IR40,province ostan,Yazd
+IR41,province ostan,Khorāsān-e Janūbī
+IR42,province ostan,Khorāsān-e Razavī
+IR43,province ostan,Khorāsān-e Shemālī
+IS00,country,ISRAEL
+IS01,district mehoz,HaDarom Southern
+IS02,district mehoz,HaMerkaz Central
+IS03,district mehoz,HaZafon Northern
+IS04,district mehoz,Hefa Haifa
+IS05,district mehoz,Tel Aviv
+IS06,district mehoz,Yerushalayim Jerusalem
+IT00,country,ITALY
+IT01,region regione,Abruzzi
+IT02,region regione,Basilicata
+IT03,region regione,Calabria
+IT04,region regione,Campania
+IT05,region regione,Emilia-Romagna
+IT06,region regione,Friuli-Venezia Giulia
+IT07,region regione,Lazio
+IT08,region regione,Liguria
+IT09,region regione,Lombardia
+IT10,region regione,Marche
+IT11,region regione,Molise
+IT12,region regione,Piemonte
+IT13,region regione,Puglia
+IT14,region regione,Sardegna
+IT15,region regione,Sicilia
+IT16,region regione,Toscana
+IT17,region regione,Trentino-Alto Adige
+IT18,region regione,Umbria
+IT19,region regione,Valle d'Aosta
+IT20,region regione,Veneto
+IV00,country,COTE D'IVOIRE
+IV74,region région,Agnéby
+IV75,region région,Bafing
+IV76,region région,Bas-Sassandra
+IV77,region région,Denguélé
+IV78,region région,Dix-Huit Montagnes
+IV79,region région,Fromager
+IV80,region région,Haut-Sassandra
+IV81,region région,Lacs
+IV82,region région,Lagunes
+IV83,region région,Marahoué
+IV84,region région,Moyen-Cavally
+IV85,region région,Moyen-Comoé
+IV86,region région,N’zi-Comoé
+IV87,region région,Savanes
+IV88,region région,Sud-Bandama
+IV89,region région,Sud-Comoé
+IV90,region région,Vallée du Bandama
+IV91,region région,Worodougou
+IV92,region région,Zanzan
+IZ00,country,IRAQ
+IZ01,province muhafazah,Al Anbar
+IZ02,province muhafazah,Al Basrah
+IZ03,province muhafazah,Al Muthanna
+IZ04,province muhafazah,Al Qadisiyah
+IZ05,province muhafazah,As Sulaymaniyah
+IZ06,province muhafazah,Babil
+IZ07,province muhafazah,Baghdad
+IZ08,province muhafazah,Dahuk
+IZ09,province muhafazah,Dhi Qar
+IZ10,province muhafazah,Diyala
+IZ11,province muhafazah,Arbil
+IZ12,province muhafazah,Karbala'
+IZ13,province muhafazah,At Ta'mim  Kirkuk
+IZ14,province muhafazah,Maysan
+IZ15,province muhafazah,Ninawa
+IZ16,province muhafazah,Wasit
+IZ17,province muhafazah,An Najaf
+IZ18,province muhafazah,Salah ad Din
+JA00,country,JAPAN
+JA01,prefecture,Aichi
+JA02,prefecture,Akita
+JA03,prefecture,Aomori
+JA04,prefecture,Chiba
+JA05,prefecture,Ehime
+JA06,prefecture,Fukui
+JA07,prefecture,Fukuoka
+JA08,prefecture,Fukushima
+JA09,prefecture,Gifu
+JA10,prefecture,Gumma
+JA11,prefecture,Hiroshima
+JA12,prefecture,Hokkaido
+JA13,prefecture,Hyogo
+JA14,prefecture,Ibaraki
+JA15,prefecture,Ishikawa
+JA16,prefecture,Iwate
+JA17,prefecture,Kagawa
+JA18,prefecture,Kagoshima
+JA19,prefecture,Kanagawa
+JA20,prefecture,Kochi
+JA21,prefecture,Kumamoto
+JA22,prefecture,Kyoto
+JA23,prefecture,Mie
+JA24,prefecture,Miyagi
+JA25,prefecture,Miyazaki
+JA26,prefecture,Nagano
+JA27,prefecture,Nagasaki
+JA28,prefecture,Nara
+JA29,prefecture,Niigata
+JA30,prefecture,Oita
+JA31,prefecture,Okayama
+JA32,prefecture,Osaka
+JA33,prefecture,Saga
+JA34,prefecture,Saitama
+JA35,prefecture,Shiga
+JA36,prefecture,Shimane
+JA37,prefecture,Shizuoka
+JA38,prefecture,Tochigi
+JA39,prefecture,Tokushima
+JA40,prefecture,Tokyo
+JA41,prefecture,Tottori
+JA42,prefecture,Toyama
+JA43,prefecture,Wakayama
+JA44,prefecture,Yamagata
+JA45,prefecture,Yamaguchi
+JA46,prefecture,Yamanashi
+JA47,prefecture,Okinawa
+JE00,country,JERSEY
+JM00,country,JAMAICA
+JM01,parish,Clarendon
+JM02,parish,Hanover
+JM04,parish,Manchester
+JM07,parish,Portland
+JM08,parish,Saint Andrew
+JM09,parish,Saint Ann
+JM10,parish,Saint Catherine
+JM11,parish,Saint Elizabeth
+JM12,parish,Saint James
+JM13,parish,Saint Mary
+JM14,parish,Saint Thomas
+JM15,parish,Trelawny
+JM16,parish,Westmoreland
+JM17,parish,Kingston
+JN00,country,JAN MAYEN
+JO00,country,JORDAN
+JO02,governorate muhafazah,Al Balqa'
+JO09,governorate muhafazah,Al Karak
+JO12,governorate muhafazah,Aţ Ţafilah
+JO15,governorate muhafazah,Al Mafraq
+JO16,governorate muhafazah,`Ammān
+JO17,governorate muhafazah,Az Zarqā'
+JO18,governorate muhafazah,Irbid
+JO19,governorate muhafazah,Ma`ān
+JO20,governorate muhafazah,'Ajlūn
+JO21,governorate muhafazah,Al 'Aqabah
+JO22,governorate muhafazah,Jarash
+JO23,governorate muhafazah,Mādabā
+JQ00,country,JOHNSTON ATOLL
+JU00,country,JUAN DE NOVA ISLAND
+KE00,country,KENYA
+KE01,province,Central
+KE02,province,Coast
+KE03,province,Eastern
+KE05,area,Nairobi Area
+KE06,province,North-Eastern
+KE07,province,Nyanza
+KE08,province,Rift Valley
+KE09,province,Western
+KG00,country,KYRGYZSTAN
+KG01,city shaary,Bishkek
+KG02,oblast oblasty,Chüy
+KG03,oblast oblasty,Jalal-Abad
+KG04,oblast oblasty,Naryn
+KG06,oblast oblasty,Talas
+KG07,oblast oblasty,Ysyk-Köl
+KG08,oblast oblasty,Osh
+KG09,oblast oblasty,Batken
+KN00,country,KOREA DEMOCRATIC PEOPLE'S REPUBLIC OF
+KN01,province,Chagang-do
+KN03,province,Hamgyong-namdo
+KN06,province,Hwanghae-namdo
+KN07,province,Hwanghae-bukto
+KN08,special city,Kaesong-si
+KN09,province,Kangwon-do
+KN11,province,P'yongan-bukto
+KN12,special city,P'yongyang-si
+KN13,province,Yanggang-do
+KN14,special city,Namp'o-si
+KN15,province,P'yongan-namdo
+KN17,province,Hamgyŏng-bukto
+KN18,province,Najin Sŏnbong-si
+KQ00,country,KINGMAN REEF
+KR00,country,KIRIBATI
+KR01,islands,Gilbert Islands
+KR02,islands,Line Islands
+KR03,islands,Phoenix Islands
+KS00,country,KOREA REPUBLIC OF
+KS01,province,Cheju-do
+KS03,province,Cholla-bukto
+KS05,province,Ch'ungch'ong-bukto
+KS06,province,Kangwon-do
+KS10,special city,Pusan-gwangyŏksi
+KS11,special city,Soul-t'ukpyolsi
+KS12,special city,Inch'ŏn-gwangyŏksi
+KS13,province,Kyonggi-do
+KS14,province,Kyongsang-bukto
+KS15,special city,Taegu-gwangyŏksi
+KS16,province,Cholla-namdo
+KS17,province,Ch'ungch'ong-namdo
+KS18,province,Kwangju-gwangyŏksi
+KS19,special city,Taejon-gwangyŏksi
+KS20,province,Kyŏngsang-namdo
+KS21,province,Ulsan-gwangyŏksi
+KT00,country,CHRISTMAS ISLAND
+KU00,country,KUWAIT
+KU02,governorate muhafazah,Al 'Āşimah
+KU04,governorate muhafazah,Al Aḩmadī
+KU05,governorate muhafazah,Al Jahrā'
+KU07,governorate muhafazah,Al Farwānīyah
+KU08,governorate muhafazah,Ḩawallī
+KU09,governorate muhafazah,Mubārak al Kabīr
+KV00,country,KOSOVO
+KZ00,country,KAZAKHSTAN
+KZ01,oblast oblysy,Almaty
+KZ02,city qalasy,Almaty
+KZ03,oblast oblysy,Aqmola
+KZ04,oblast oblysy,Aqtöbe
+KZ05,city qalasy,Astana
+KZ06,oblast oblysy,Atyraū
+KZ07,oblast oblysy,Batys Qazaqstan
+KZ08,city qalasy,Bayqongyr
+KZ09,oblast oblysy,Mangghystaū
+KZ10,oblast oblysy,Ongtüstik Qazaqstan
+KZ11,oblast oblysy,Pavlodar
+KZ12,oblast oblysy,Qaraghandy
+KZ13,oblast oblysy,Qostanay
+KZ14,oblast oblysy,Qyzylorda
+KZ15,oblast oblysy,Shyghys Qazaqstan
+KZ16,oblast oblysy,Soltüstik Qazaqstan
+KZ17,oblast oblysy,Zhambyl
+LA00,country,LAOS
+LA01,province khoueng,Attapu  Attopeu
+LA02,province khoueng,Champasak  Champassak
+LA03,province khoueng,Houaphan  Houa Phan
+LA07,province khoueng,Oudomxai
+LA13,province khoueng,Xaignabouli  Sayaboury
+LA14,province khoueng,Xiangkhoang  Xieng Khouang
+LA15,province khoueng,Khammouan  Khammouane
+LA16,province khoueng,Louangnamtha  Houa Khong
+LA17,province khoueng,Louangphabang  Luang Prabang
+LA18,province khoueng,Phôngsali  Phong Saly
+LA19,province khoueng,Salavan  Saravane
+LA20,province khoueng,Savannahkhét
+LA22,province khoueng,Bokèo
+LA23,province khoueng,Bolikhamxai
+LA24,city kamphèng nakhon,Viangchan
+LA25,special zone khétphisét,Xaisômboun
+LA26,province khoueng,Xékong
+LA27,province khoueng,Viangchan
+LE00,country,LEBANON
+LE04,governorate muhafazah,Beyrouth
+LE05,governorate muhafazah,Mont-Liban
+LE06,governorate muhafazah,Liban-Sud
+LE07,governorate muhafazah,Nabatîyé
+LE08,governorate muhafazah,Béqaa
+LE09,governorate muhafazah,Liban-Nord
+LE10,governorate muhafazah,Aakkâr
+LE11,governorate muhafazah,Baalbek-Hermel
+LG00,country,LATVIA
+LH00,country,LITHUANIA
+LH56,county apskritis,Alytaus Apskritis
+LH57,county apskritis,Kauno Apskritis
+LH58,county apskritis,Klaipėdos Apskritis
+LH59,county apskritis,Marijampolėªs Apskritis
+LH60,county apskritis,Panevėžio Apskritis
+LH61,county apskritis,Šiaulių Apskritis
+LH62,county apskritis,Tauragės Apskritis
+LH63,county apskritis,Telšių Apskritis
+LH64,county apskritis,Utenos Apskritis
+LH65,county apskritis,Vilniaus Apskritis
+LI00,country,LIBERIA
+LI01,county,Bong
+LI07,commonwealth district,Monrovia
+LI09,county,Nimba
+LI10,county,Sinoe
+LI11,county,Grand Bassa
+LI12,county,Grand Cape Mount
+LI13,county,Maryland
+LI14,county,Montserrado
+LI19,county,Grand Gedeh
+LI20,county,Lofa
+LI21,county,Gbarpolu
+LI22,county,River Gee
+LO00,country,SLOVAKIA
+LO01,district kray,Banskobystrický
+LO02,district kray,Bratislavský
+LO03,district kray,Košický
+LO04,district kray,Nitriansky
+LO05,district kray,Prešovský
+LO06,district kray,Trenčiansky
+LO07,district kray,Trnavský
+LO08,district kray,Žilinský
+LQ00,country,PALMYRA ATOLL
+LS00,country,LIECHTENSTEIN
+LS01,commune gemeinde,Balzers
+LS02,commune gemeinde,Eschen
+LS03,commune gemeinde,Gamprin
+LS04,commune gemeinde,Mauren
+LS05,commune gemeinde,Planken
+LS06,commune gemeinde,Ruggell
+LS07,commune gemeinde,Schaan
+LS08,commune gemeinde,Schellenberg
+LS09,commune gemeinde,Triesen
+LS10,commune gemeinde,Triesenberg
+LS11,commune gemeinde,Vaduz
+LT00,country,LESOTHO
+LT10,district,Berea
+LT11,district,Butha-Buthe
+LT12,district,Leribe
+LT13,district,Mafeteng
+LT14,district,Maseru
+LT15,district,Mohales Hoek
+LT16,district,Mokhotlong
+LT17,district,Qachas Nek
+LT18,district,Quthing
+LT19,district,Thaba-Tseka
+LU00,country,LUXEMBOURG
+LU01,district district,Diekirch
+LU02,district district,Grevenmacher
+LU03,district district,Luxembourg
+LY00,country,LIBYA
+LY03,municipality baladiyah,Al `Aziziyah
+LY05,municipality baladiyah,Al Jufrah
+LY08,municipality baladiyah,Al Kufrah
+LY13,municipality baladiyah,Ash Shati'
+LY30,municipality baladiyah,Murzuq
+LY34,municipality baladiyah,Sabha
+LY41,municipality baladiyah,Tarhunah
+LY42,municipality baladiyah,Tubruq
+LY45,municipality baladiyah,Zlitan
+LY47,municipality baladiyah,Ajdabiya
+LY48,municipality baladiyah,Al Fatih
+LY49,municipality baladiyah,Al Jabal al Akhdar
+LY50,municipality baladiyah,Al Khums
+LY51,municipality baladiyah,An Nuqat al Khams
+LY52,municipality baladiyah,Awbari
+LY53,municipality baladiyah,Az Zawiyah
+LY54,municipality baladiyah,Banghazi
+LY55,municipality baladiyah,Darnah
+LY56,municipality baladiyah,Ghadamis
+LY57,municipality baladiyah,Gharyan
+LY58,municipality baladiyah,Misratah
+LY59,municipality baladiyah,Sawfajjin
+LY60,municipality baladiyah,Surt
+LY61,municipality baladiyah,Tarabulus
+LY62,municipality baladiyah,Yafran
+MA00,country,MADAGASCAR
+MA01,province faritanin',Antsiranana
+MA02,province faritanin',Fianarantsoa
+MA03,province faritanin',Mahajanga
+MA04,province faritanin',Toamasina
+MA05,province faritanin',Antananarivo
+MA06,province faritanin',Toliara
+MB00,country,MARTINIQUE
+MC00,country,MACAU
+MC01,district concelho,Ilhas
+MC02,district concelho,Macau  Macao
+MD00,country,MOLDOVA
+MD51,autonomous territorial unit unitate teritorială autonomă,Găgăuzia
+MD57,county judeţul,Chişinău
+MD58,territorial unit unitatea teritorială,Stînga Nistrului
+MD59,district raionul,Anenii Noi
+MD60,municipality municipiul,Bălţi
+MD61,district raionul,Basarabeasca
+MD62,municipality municipiul,Bender
+MD63,district raionul,Briceni
+MD64,district raionul,Cahul
+MD65,district raionul,Cantemir
+MD66,district raionul,Călăraşi
+MD67,district raionul,Căuşeni
+MD68,district raionul,Cimişlia
+MD69,district raionul,Criuleni
+MD70,district raionul,Donduşeni
+MD71,district raionul,Drochia
+MD72,district raionul,Dubăsari
+MD73,district raionul,Edineţ
+MD74,district raionul,Făleşti
+MD75,district raionul,Floreşti
+MD76,district raionul,Glodeni
+MD77,district raionul,Hînceşti
+MD78,district raionul,Ialoveni
+MD79,district raionul,Leova
+MD80,district raionul,Nisporeni
+MD81,district raionul,Ocniţa
+MD82,district raionul,Orhei
+MD83,district raionul,Rezina
+MD84,district raionul,Rîşcani
+MD85,district raionul,Sîngerei
+MD86,district raionul,Şoldăneşti
+MD87,district raionul,Soroca
+MD88,district raionul,Ştefan-Vodă
+MD89,district raionul,Străşeni
+MD90,district raionul,Taraclia
+MD91,district raionul,Teleneşti
+MD92,district raionul,Ungheni
+MF00,country,MAYOTTE
+MG00,country,MONGOLIA
+MG01,province aymag,Arhangay
+MG02,province aymag,Bayanhongor
+MG03,province aymag,Bayan-Olgiy
+MG06,province aymag,Dornod
+MG07,province aymag,Dornogovi
+MG08,province aymag,Dundgovi
+MG09,province aymag,Dzavhan
+MG10,province aymag,Govi-Altay
+MG11,province aymag,Hentiy
+MG12,province aymag,Hovd
+MG13,province aymag,Hovsgol
+MG14,province aymag,Omnogovi
+MG15,province aymag,Ovorhangay
+MG16,province aymag,Selenge
+MG17,province aymag,Suhbaatar
+MG18,province aymag,Tov
+MG19,province aymag,Uvs
+MG20,municipality hot,Ulaanbaatar
+MG21,province aymag,Bulgan
+MG23,province aymag,Darhan-Uul
+MG24,province aymag,Govĭsumber
+MG25,province aymag,Orhon
+MH00,country,MONTSERRAT
+MH01,parish,Saint Anthony
+MH02,parish,Saint Georges
+MH03,parish,Saint Peter
+MI00,country,MALAWI
+MI02,district,Chikwawa
+MI03,district,Chiradzulu
+MI04,district,Chitipa
+MI05,district,Thyolo
+MI06,district,Dedza
+MI07,district,Dowa
+MI08,district,Karonga
+MI09,district,Kasungu
+MI11,district,Lilongwe
+MI12,district,Mangochi  Fort Johnston
+MI13,district,Mchinji
+MI15,district,Mzimba
+MI16,district,Ntcheu
+MI17,district,Nkhata Bay
+MI18,district,Nkhotakota
+MI19,district,Nsanje
+MI20,district,Ntchisi  Nchisi
+MI21,district,Rumphi  Rumpi
+MI22,district,Salima
+MI23,district,Zomba
+MI24,district,Blantyre
+MI25,district,Mwanza
+MI26,district,Balaka
+MI27,district,Likoma
+MI28,district,Machinga  Kasupe
+MI29,district,Mulanje  Mlange
+MI30,district,Phalombe
+MJ00,country,MONTENEGRO
+MK00,country,MACEDONIA
+MK01,municipality opština,Aračinovo
+MK02,municipality opština,Bač
+MK03,municipality opština,Belčišta
+MK04,municipality opština,Berovo
+MK05,municipality opština,Bistrica
+MK06,municipality opština,Bitola
+MK07,municipality opština,Blatec
+MK08,municipality opština,Bogdanci
+MK09,municipality opština,Bogomila
+MK10,municipality opština,Bogovinje
+MK11,municipality opština,Bosilovo
+MK12,municipality opština,Brvenica
+MK13,municipality opština,Čair
+MK14,municipality opština,Capari
+MK15,municipality opština,Čaška
+MK16,municipality opština,Čegrane
+MK17,municipality opština,Centar
+MK18,municipality opština,Centar Župa
+MK19,municipality opština,Češinovo
+MK20,municipality opština,Čučer-Sandevo
+MK21,municipality opština,Debar
+MK22,municipality opština,Delčevo
+MK23,municipality opština,Delogoždi
+MK24,municipality opština,Demir Hisar
+MK25,municipality opština,Demir Kapija
+MK26,municipality opština,Dobruševo
+MK27,municipality opština,Dolna Banjica
+MK28,municipality opština,Dolneni
+MK29,municipality opština,Đorče Petrov
+MK30,municipality opština,Drugovo
+MK31,municipality opština,Džepčište
+MK32,municipality opština,Gazi Baba
+MK33,municipality opština,Gevgelija
+MK34,municipality opština,Gostivar
+MK35,municipality opština,Gradsko
+MK36,municipality opština,Ilinden
+MK37,municipality opština,Izvor
+MK38,municipality opština,Jegunovce
+MK39,municipality opština,Kamenjane
+MK40,municipality opština,Karbinci
+MK41,municipality opština,Karpoš
+MK42,municipality opština,Kavadarci
+MK43,municipality opština,Kičevo
+MK44,municipality opština,Kisela Voda
+MK45,municipality opština,Klečevce
+MK46,municipality opština,Kočani
+MK47,municipality opština,Konče
+MK48,municipality opština,Kondovo
+MK49,municipality opština,Konopište
+MK50,municipality opština,Kosel
+MK51,municipality opština,Kratovo
+MK52,municipality opština,Kriva Palanka
+MK53,municipality opština,Krivogaštani
+MK54,municipality opština,Kruševo
+MK55,municipality opština,Kukliš
+MK56,municipality opština,Kukurečani
+MK57,municipality opština,Kumanovo
+MK58,municipality opština,Labuništa
+MK59,municipality opština,Lipkovo
+MK60,municipality opština,Lozovo
+MK61,municipality opština,Lukovo
+MK62,municipality opština,Makedonska Kamenica
+MK63,municipality opština,Makedonski Brod
+MK64,municipality opština,Mavrovi Anovi
+MK65,municipality opština,Mešeišta
+MK66,municipality opština,Miravci
+MK67,municipality opština,Mogila
+MK68,municipality opština,Murtino
+MK69,municipality opština,Negotino
+MK70,municipality opština,Negotino-Pološko
+MK71,municipality opština,Novaci
+MK72,municipality opština,Novo Selo
+MK73,municipality opština,Obleševo
+MK74,municipality opština,Ohrid
+MK75,municipality opština,Orašac
+MK76,municipality opština,Orizari
+MK77,municipality opština,Oslomej
+MK78,municipality opština,Pehčevo
+MK79,municipality opština,Petrovec
+MK80,municipality opština,Plasnica
+MK81,municipality opština,Podareš
+MK82,municipality opština,Prilep
+MK83,municipality opština,Probištip
+MK84,municipality opština,Radoviš
+MK85,municipality opština,Rankovce
+MK86,municipality opština,Resen
+MK87,municipality opština,Rosoman
+MK88,municipality opština,Rostuša
+MK89,municipality opština,Samokov
+MK90,municipality opština,Saraj
+MK91,municipality opština,Šipkovica
+MK92,municipality opština,Sopište
+MK93,municipality opština,Sopotnica
+MK94,municipality opština,Srbinovo
+MK95,municipality opština,Staravina
+MK96,municipality opština,Star Dojran
+MK97,municipality opština,Staro Nagoričane
+MK98,municipality opština,Štip
+MK99,municipality opština,Struga
+MKA1,municipality opština,Strumica
+MKA2,municipality opština,Studeničani
+MKA3,municipality opština,Šuto Orizari
+MKA4,municipality opština,Sveti Nikole
+MKA5,municipality opština,Tearce
+MKA6,municipality opština,Tetovo
+MKA7,municipality opština,Topolčani
+MKA8,municipality opština,Valandovo
+MKA9,municipality opština,Vasilevo
+MKB1,municipality opština,Veles
+MKB2,municipality opština,Velešta
+MKB3,municipality opština,Vevčani
+MKB4,municipality opština,Vinica
+MKB5,municipality opština,Vitolište
+MKB6,municipality opština,Vraneštica
+MKB7,municipality opština,Vrapčište
+MKB8,municipality opština,Vratnica
+MKB9,municipality opština,Vrutok
+MKC1,municipality opština,Zajas
+MKC2,municipality opština,Zelenikovo
+MKC3,municipality opština,Želino
+MKC4,municipality opština,Žitoše
+MKC5,municipality opština,Zletovo
+MKC6,municipality opština,Zrnovci
+ML00,country,MALI
+ML01,district region,Bamako
+ML03,district region,Kayes
+ML04,district region,Mopti
+ML05,district region,Segou
+ML06,district region,Sikasso
+ML07,district region,Koulikoro
+ML08,district region,Tombouctou
+ML09,district region,Gao
+ML10,district region,Kidal
+MN00,country,MONACO
+MO00,country,MOROCCO
+MO45,region région,Grand Casablanca
+MO46,region région,Fès-Boulemane
+MO47,region région,Marrakech-Tensift-Al Haouz
+MO48,region région,Meknès-Tafilalet
+MO49,region région,Rabat-Salé-Zemmour-Zaër
+MO50,region région,Chaouia-Ouardigha
+MO51,region région,Doukkala-Abda
+MO52,region région,Gharb-Chrarda-Beni Hssen
+MO53,region région,Guelmim-Es Smara
+MO54,region région,Oriental
+MO55,region région,Souss-Massa-Drâa
+MO56,region région,Tadla-Azilal
+MO57,region région,Tanger-Tétouan
+MO58,region région,Taza-Al Hoceima-Taounate
+MO59,region région,Laâyoune-Boujdour-Sakia El Hamra
+MP00,country,MAURITIUS
+MP12,district,Black River
+MP13,district,Flacq
+MP14,district,Grand Port
+MP15,district,Moka
+MP16,district,Pamplemousses
+MP17,district,Plaines Wilhems
+MP18,district,Port Louis
+MP19,district,Riviere du Rempart
+MP20,district,Savanne
+MP21,dependency,Agalega Islands
+MP22,dependency,Cargados Carajos
+MP23,dependency,Rodrigues
+MQ00,country,MIDWAY ISLANDS
+MR00,country,MAURITANIA
+MR01,region region,Hodh Ech Chargui  Premiere Region
+MR02,region region,Hodh El Gharbi  Deuxieme Region
+MR03,region region,Assaba  Troisieme Region
+MR04,region region,Gorgol  Quatrieme Region
+MR05,region region,Brakna  Cinquieme Region
+MR06,region region,Trarza  Sixieme Region
+MR07,region region,Adrar  Septieme Region
+MR08,region region,Dakhlet Nouadhibou  Huitieme Region
+MR09,region region,Tagant  Neuvieme Region
+MR10,region region,Guidimaka  Dixieme Region
+MR11,region region,Tiris Zemmour  Onzieme Region
+MR12,region region,Inchiri  Douzieme Region
+MT00,country,MALTA
+MU00,country,OMAN
+MU01,region minţaqat,Ad Dākhilīyah
+MU02,region minţaqat,Al Bāţinah
+MU03,region minţaqat,Al Wusţá
+MU04,region minţaqat,Ash Sharqīyah
+MU06,region minţaqat,Masqaţ
+MU07,governorate muḩāfaz̧at,Musandam
+MU08,region minţaqat,Z̧ufār
+MU09,region minţaqat,Az̧ Z̧āhirah
+MU10,region minţaqat,Al Buraymī
+MV00,country,MALDIVES
+MV01,district atholhu,Seenu
+MV05,district atholhu,Laamu
+MV30,district atholhu,Alifu
+MV31,district atholhu,Baa
+MV32,district atholhu,Dhaalu
+MV33,district atholhu,Faafu
+MV34,district atholhu,Gaafu Alifu
+MV35,district atholhu,Gaafu Dhaalu
+MV36,district atholhu,Haa Alifu
+MV37,district atholhu,Haa Dhaalu
+MV38,district atholhu,Kaafu
+MV39,district atholhu,Lhaviyani
+MV40,municipality,Maale
+MV41,district atholhu,Meemu
+MV42,district atholhu,Gnaviyani
+MV43,district atholhu,Noonu
+MV44,district atholhu,Raa
+MV45,district atholhu,Shaviyani
+MV46,district atholhu,Thaa
+MV47,district atholhu,Vaavu
+MX00,country,MEXICO
+MX01,state estado,Aguascalientes
+MX02,state estado,Baja California
+MX03,state estado,Baja California Sur
+MX04,state estado,Campeche
+MX05,state estado,Chiapas
+MX06,state estado,Chihuahua
+MX07,state estado,Coahuila de Zaragoza
+MX08,state estado,Colima
+MX09,federal district distrito federal,Distrito Federal
+MX10,state estado,Durango
+MX11,state estado,Guanajuato
+MX12,state estado,Guerrero
+MX13,state estado,Hidalgo
+MX14,state estado,Jalisco
+MX15,state estado,Mexico
+MX16,state estado,Michoacan de Ocampo
+MX17,state estado,Morelos
+MX18,state estado,Nayarit
+MX19,state estado,Nuevo Leon
+MX20,state estado,Oaxaca
+MX21,state estado,Puebla
+MX22,state estado,Queretaro de Arteaga
+MX23,state estado,Quintana Roo
+MX24,state estado,San Luis Potosi
+MX25,state estado,Sinaloa
+MX26,state estado,Sonora
+MX27,state estado,Tabasco
+MX28,state estado,Tamaulipas
+MX29,state estado,Tlaxcala
+MX30,state estado,Veracruz-Llave
+MX31,state estado,Yucatan
+MX32,state estado,Zacatecas
+MY00,country,MALAYSIA
+MY01,state negeri,Johor
+MY02,state negeri,Kedah
+MY03,state negeri,Kelantan
+MY04,state negeri,Melaka
+MY05,state negeri,Negeri Sembilan
+MY06,state negeri,Pahang
+MY07,state negeri,Perak
+MY08,state negeri,Perlis
+MY09,state negeri,Pulau Pinang
+MY11,state negeri,Sarawak
+MY12,state negeri,Selangor
+MY13,state negeri,Terengganu
+MY14,federal territory wilayah persekutuan,Kuala Lumpur
+MY15,federal territory wilayah persekutuan,Labuan
+MY16,state negeri,Sabah
+MY17,federal territory wilayah persekutuan,Putrajaya
+MZ00,country,MOZAMBIQUE
+MZ01,province provincia,Cabo Delgado
+MZ02,province provincia,Gaza
+MZ03,province provincia,Inhambane
+MZ04,province provincia,Maputo
+MZ05,province provincia,Sofala
+MZ06,province provincia,Nampula
+MZ07,province provincia,Niassa
+MZ08,province provincia,Tete
+MZ09,province provincia,Zambezia
+MZ10,province provincia,Manica
+MZ11,city cidade,Maputo
+NC00,country,NEW CALEDONIA
+NE00,country,NIUE
+NF00,country,NORFOLK ISLAND
+NG00,country,NIGER
+NG01,department departement,Agadez
+NG02,department departement,Diffa
+NG03,department departement,Dosso
+NG04,department departement,Maradi
+NG06,department departement,Tahoua
+NG07,department departement,Zinder
+NG08,autonomous region,Niamey
+NG09,department departement,Tillabéri
+NH00,country,VANUATU
+NH07,province,Torba
+NH13,province,Sanma
+NH15,province,Tafea
+NH16,province,Malampa
+NH17,province,Penama
+NH18,province,Shefa
+NI00,country,NIGERIA
+NI05,state,Lagos
+NI11,capital territory,Federal Capital Territory
+NI16,state,Ogun
+NI21,state,Akwa Ibom
+NI22,state,Cross River
+NI23,state,Kaduna
+NI24,state,Katsina
+NI25,state,Anambra
+NI26,state,Benue
+NI27,state,Borno
+NI28,state,Imo
+NI29,state,Kano
+NI30,state,Kwara
+NI31,state,Niger
+NI32,state,Oyo
+NI35,state,Adamawa
+NI36,state,Delta
+NI37,state,Edo
+NI39,state,Jigawa
+NI40,state,Kebbi
+NI41,state,Kogi
+NI42,state,Osun
+NI43,state,Taraba
+NI44,state,Yobe
+NI45,state,Abia
+NI46,state,Bauchi
+NI47,state,Enugu
+NI48,state,Ondo
+NI49,state,Plateau
+NI50,state,Rivers
+NI51,state,Sokoto
+NI52,state,Bayelsa
+NI53,state,Ebonyi
+NI54,state,Ekiti
+NI55,state,Gombe
+NI56,state,Nassarawa
+NI57,state,Zamfara
+NL00,country,NETHERLANDS
+NL01,province provincie,Drenthe
+NL02,province provincie,Friesland
+NL03,province provincie,Gelderland
+NL04,province provincie,Groningen
+NL05,province provincie,Limburg
+NL06,province provincie,Noord-Brabant
+NL07,province provincie,Noord-Holland
+NL09,province provincie,Utrecht
+NL10,province provincie,Zeeland
+NL11,province provincie,Zuid-Holland
+NL15,province provincie,Overijssel
+NL16,province provincie,Flevoland
+NO00,country,NORWAY
+NO01,province fylke,Akershus
+NO02,province fylke,Aust-Agder
+NO04,province fylke,Buskerud
+NO05,province fylke,Finnmark
+NO06,province fylke,Hedmark
+NO07,province fylke,Hordaland
+NO08,province fylke,More og Romsdal
+NO09,province fylke,Nordland
+NO10,province fylke,Nord-Trondelag
+NO11,province fylke,Oppland
+NO12,province fylke,Oslo
+NO13,province fylke,Ostfold
+NO14,province fylke,Rogaland
+NO15,province fylke,Sogn og Fjordane
+NO16,province fylke,Sor-Trondelag
+NO17,province fylke,Telemark
+NO18,province fylke,Troms
+NO19,province fylke,Vest-Agder
+NO20,province fylke,Vestfold
+NP00,country,NEPAL
+NP01,zone,Bagmati
+NP02,zone,Bheri
+NP03,zone,Dhawalagiri
+NP04,zone,Gandaki
+NP05,zone,Janakpur
+NP06,zone,Karnali
+NP07,zone,Kosi
+NP08,zone,Lumbini
+NP09,zone,Mahakali
+NP10,zone,Mechi
+NP11,zone,Narayani
+NP12,zone,Rapti
+NP13,zone,Sagarmatha
+NP14,zone,Seti
+NR00,country,NAURU
+NR01,district,Aiwo
+NR02,district,Anabar
+NR03,district,Anetan
+NR04,district,Anibare
+NR05,district,Baiti
+NR06,district,Boe
+NR07,district,Buada
+NR08,district,Denigomodu
+NR09,district,Ewa
+NR10,district,Ijuw
+NR11,district,Meneng
+NR12,district,Nibok
+NR13,district,Uaboe
+NR14,district,Yaren
+NS00,country,SURINAME
+NS10,district distrikt,Brokopondo
+NS11,district distrikt,Commewijne
+NS12,district distrikt,Coronie
+NS13,district distrikt,Marowijne
+NS14,district distrikt,Nickerie
+NS15,district distrikt,Para
+NS16,district distrikt,Paramaribo
+NS17,district distrikt,Saramacca
+NS18,district distrikt,Sipaliwini
+NS19,district distrikt,Wanica
+NT00,country,NETHERLANDS ANTILLES
+NU00,country,NICARAGUA
+NU01,department departamento,Boaco
+NU02,department departamento,Carazo
+NU03,department departamento,Chinandega
+NU04,department departamento,Chontales
+NU05,department departamento,Esteli
+NU06,department departamento,Granada
+NU07,department departamento,Jinotega
+NU08,department departamento,Leon
+NU09,department departamento,Madriz
+NU10,department departamento,Managua
+NU11,department departamento,Masaya
+NU12,department departamento,Matagalpa
+NU13,department departamento,Nueva Segovia
+NU14,department departamento,Rio San Juan
+NU15,department departamento,Rivas
+NU17,autonomous region región autónoma,Atlántico Norte
+NU18,autonomous region región autónoma,Atlántico Sur
+NZ00,country,NEW ZEALAND
+NZ10,county,Chatham Islands
+NZE7,region,Auckland
+NZE8,region,Bay of Plenty
+NZE9,region,Canterbury
+NZF1,region,Gisborne
+NZF2,region,Hawke’s Bay
+NZF3,region,Manawatu-Wanganui
+NZF4,region,Marlborough
+NZF5,region,Nelson
+NZF6,region,Northland
+NZF7,region,Otago
+NZF8,region,Southland
+NZF9,region,Taranaki
+NZG1,region,Waikato
+NZG2,region,Wellington
+NZG3,region,West Coast
+PA00,country,PARAGUAY
+PA01,department departamento,Alto Parana
+PA02,department departamento,Amambay
+PA04,department departamento,Caaguazu
+PA05,department departamento,Caazapa
+PA06,department departamento,Central
+PA07,department departamento,Concepcion
+PA08,department departamento,Cordillera
+PA10,department departamento,Guaira
+PA11,department departamento,Itapua
+PA12,department departamento,Misiones
+PA13,department departamento,Neembucu
+PA15,department departamento,Paraguari
+PA16,department departamento,Presidente Hayes
+PA17,department departamento,San Pedro
+PA19,department departamento,Canindeyu
+PA22,department departamento,Asunció
+PA23,department departamento,Alto Paraguay
+PA24,department departamento,Boquerón
+PC00,country,PITCAIRN ISLANDS
+PE00,country,PERU
+PE01,department departamento,Amazonas
+PE02,department departamento,Ancash
+PE03,department departamento,Apurimac
+PE04,department departamento,Arequipa
+PE05,department departamento,Ayacucho
+PE06,department departamento,Cajamarca
+PE07,constitutional province provincia constitucional,Callao
+PE08,department departamento,Cusco
+PE09,department departamento,Huancavelica
+PE10,department departamento,Huanuco
+PE11,department departamento,Ica
+PE12,department departamento,Junin
+PE13,department departamento,La Libertad
+PE14,department departamento,Lambayeque
+PE15,department departamento,Lima
+PE16,department departamento,Loreto
+PE17,department departamento,Madre de Dios
+PE18,department departamento,Moquegua
+PE19,department departamento,Pasco
+PE20,department departamento,Piura
+PE21,department departamento,Puno
+PE22,department departamento,San Martin
+PE23,department departamento,Tacna
+PE24,department departamento,Tumbes
+PE25,department departamento,Ucayali
+PF00,country,PARACEL ISLANDS
+PG00,country,SPRATLY ISLANDS
+PJ00,country,ETOROFU HABOMAI KUNASHIRI AND SHIKOTAN ISLANDS
+PK00,country,PAKISTAN
+PK01,territory,Federally Administered Tribal Areas
+PK02,province,Balochistan
+PK03,province,North-West Frontier
+PK04,province,Punjab
+PK05,province,Sindh
+PK06,Pakistan-administered area,Azad Kashmir
+PK07,Pakistan-administered area,Northern Areas
+PK08,capital territory,Islamabad
+PL00,country,POLAND
+PL72,province województwo,Dolnośląskie
+PL73,province województwo,Kujawsko-Pomorskie
+PL74,province województwo,Łódzkie
+PL75,province województwo,Lubelskie
+PL76,province województwo,Lubuskie
+PL77,province województwo,Małopolskie
+PL78,province województwo,Mazowieckie
+PL79,province województwo,Opolskie
+PL80,province województwo,Podkarpackie
+PL81,province województwo,Podlaskie
+PL82,province województwo,Pomorskie
+PL83,province województwo,Śląskie
+PL84,province województwo,Świętokrzyskie
+PL85,province województwo,Warmińsko-Mazurskie
+PL86,province województwo,Wielkopolskie
+PL87,province województwo,Zachodniopomorskie
+PM00,country,PANAMA
+PM01,province provincia,Bocas del Toro
+PM02,province provincia,Chiriqui
+PM03,province provincia,Cocle
+PM04,province provincia,Colon
+PM05,province provincia,Darien
+PM06,province provincia,Herrera
+PM07,province provincia,Los Santos
+PM08,province provincia,Panama
+PM09,intendancy intendencia,San Blas
+PM10,province provincia,Veraguas
+PO00,country,PORTUGAL
+PO02,district distrito,Aveiro
+PO03,district distrito,Beja
+PO04,district distrito,Braga
+PO05,district distrito,Braganca
+PO06,district distrito,Castelo Branco
+PO07,district distrito,Coimbra
+PO08,district distrito,Evora
+PO09,district distrito,Faro
+PO10,autonomous region regiao autonoma,Madeira
+PO11,district distrito,Guarda
+PO13,district distrito,Leiria
+PO14,district distrito,Lisboa
+PO16,district distrito,Portalegre
+PO17,district distrito,Porto
+PO18,district distrito,Santarem
+PO19,district distrito,Setubal
+PO20,district distrito,Viana do Castelo
+PO21,district distrito,Vila Real
+PO22,district distrito,Viseu
+PO23,autonomous region regiao autonoma,Azores
+PP00,country,PAPUA NEW GUINEA
+PP01,province,Central
+PP02,province,Gulf
+PP03,province,Milne Bay
+PP04,province,Northern
+PP05,province,Southern Highlands
+PP06,province,Western
+PP07,province,Boungainville
+PP08,province,Chimbu
+PP09,province,Eastern Highlands
+PP10,province,East New Britain
+PP11,province,East Sepik
+PP12,province,Madang
+PP13,province,Manus
+PP14,province,Morobe
+PP15,province,New Ireland
+PP16,province,Western Highlands
+PP17,province,West New Britain
+PP18,province,Sandaun
+PP19,province,Enga
+PP20,province,National Capital
+PS00,country,PALAU
+PS01,?,Aimelik
+PS02,?,Airai
+PS03,?,Angaur
+PS04,?,Hatohobei
+PS05,?,Kayangel
+PS06,?,Koror
+PS07,?,Melekeok
+PS08,?,Ngaraard
+PS09,?,Ngarchelong
+PS10,?,Ngardmau
+PS11,?,Ngatpang
+PS12,?,Ngchesar
+PS13,?,Ngeremlengui
+PS14,?,Ngiwal
+PS15,?,Peleliu
+PS16,?,Sonsorol
+PU00,country,GUINEA-BISSAU
+PU01,region,Bafata
+PU02,region,Quinara
+PU04,region,Oio
+PU05,region,Bolama
+PU06,region,Cacheu
+PU07,region,Tombali
+PU10,region,Gabu
+PU11,region,Bissau
+PU12,region,Biombo
+QA00,country,QATAR
+QA01,municipality baladīyat,Ad Dawḩah
+QA02,municipality baladīyat,Al Ghuwayrīyah
+QA03,municipality baladīyat,Al Jumaylīyah
+QA04,municipality baladīyat,Al Khawr
+QA06,municipality baladīyat,Ar Rayyān
+QA08,municipality baladīyat,Madīnat ash Shamāl
+QA09,municipality baladīyat,Umm Şalāl
+QA10,municipality baladīyat,Al Wakrah
+QA11,municipality baladīyat,Jarayān al Bāţinah
+QA12,municipality baladīyat,Umm Sa‘īd
+RE00,country,REUNION
+RI00,country,SERBIA
+RM00,country,MARSHALL ISLANDS
+RN00,country,SAINT MARTIN
+RO00,country,ROMANIA
+RO01,county judet,Alba
+RO02,county judet,Arad
+RO03,county judet,Arges
+RO04,county judet,Bacau
+RO05,county judet,Bihor
+RO06,county judet,Bistrita-Nasaud
+RO07,county judet,Botosani
+RO08,county judet,Braila
+RO09,county judet,Brasov
+RO10,municipality municipiu,Bucuresti
+RO11,county judet,Buzau
+RO12,county judet,Caras-Severin
+RO13,county judet,Cluj
+RO14,county judet,Constanta
+RO15,county judet,Covasna
+RO16,county judet,Dâmbovița
+RO17,county judet,Dolj
+RO18,county judet,Galati
+RO19,county judet,Gorj
+RO20,county judet,Harghita
+RO21,county judet,Hunedoara
+RO22,county judet,Ialomita
+RO23,county judet,Iasi
+RO25,county judet,Maramures
+RO26,county judet,Mehedinti
+RO27,county judet,Mures
+RO28,county judet,Neamt
+RO29,county judet,Olt
+RO30,county judet,Prahova
+RO31,county judet,Salaj
+RO32,county judet,Satu Mare
+RO33,county judet,Sibiu
+RO34,county judet,Suceava
+RO35,county judet,Teleorman
+RO36,county judet,Timis
+RO37,county judet,Tulcea
+RO38,county judet,Vaslui
+RO39,county judet,Vâlcea
+RO40,county judet,Vrancea
+RO41,county judet,Calarasi
+RO42,county judet,Giurgiu
+RO43,county judet,Ilfov
+RP00,country,PHILIPPINES
+RP01,province,Abra
+RP02,province,Agusan del Norte
+RP03,province,Agusan del Sur
+RP04,province,Aklan
+RP05,province,Albay
+RP06,province,Antique
+RP07,province,Bataan
+RP08,province,Batanes
+RP09,province,Batangas
+RP10,province,Benguet
+RP11,province,Bohol
+RP12,province,Bukidnon
+RP13,province,Bulacan
+RP14,province,Cagayan
+RP15,province,Camarines Norte
+RP16,province,Camarines Sur
+RP17,province,Camiguin
+RP18,province,Capiz
+RP19,province,Catanduanes
+RP20,province,Cavite
+RP21,province,Cebu
+RP22,province,Basilan
+RP23,province,Eastern Samar
+RP24,province,Davao
+RP25,province,Davao del Sur
+RP26,province,Davao Oriental
+RP27,province,Ifugao
+RP28,province,Ilocos Norte
+RP29,province,Ilocos Sur
+RP30,province,Iloilo
+RP31,province,Isabela
+RP32,province,Kalinga-Apayao
+RP33,province,Laguna
+RP34,province,Lanao del Norte
+RP35,province,Lanao del Sur
+RP36,province,La Union
+RP37,province,Leyte
+RP38,province,Marinduque
+RP39,province,Masbate
+RP40,province,Mindoro Occidental
+RP41,province,Mindoro Oriental
+RP42,province,Misamis Occidental
+RP43,province,Misamis Oriental
+RP44,province,Mountain
+RP46,province,Negros Oriental
+RP47,province,Nueva Ecija
+RP48,province,Nueva Vizcaya
+RP49,province,Palawan
+RP50,province,Pampanga
+RP51,province,Pangasinan
+RP53,province,Rizal
+RP54,province,Romblon
+RP55,province,Samar
+RP56,province,Maguindanao
+RP57,province,North Cotabato
+RP58,province,Sorsogon
+RP59,province,Southern Leyte
+RP60,province,Sulu
+RP61,province,Surigao del Norte
+RP62,province,Surigao del Sur
+RP63,province,Tarlac
+RP64,province,Zambales
+RP65,province,Zamboanga del Norte
+RP66,province,Zamboanga del Sur
+RP67,province,Northern Samar
+RP68,province,Quirino
+RP69,province,Siquijor
+RP70,province,South Cotabato
+RP71,province,Sultan Kudarat
+RP72,province,Tawitawi
+RPA1,chartered city,Angeles
+RPA2,chartered city,Bacolod
+RPA3,chartered city,Bago
+RPA4,chartered city,Baguio
+RPA5,chartered city,Bais
+RPA6,chartered city,Basilan City
+RPA7,chartered city,Batangas City
+RPA8,chartered city,Butuan
+RPA9,chartered city,Cabanatuan
+RPB1,chartered city,Cadiz
+RPB2,chartered city,Cagayan de Oro
+RPB3,chartered city,Calbayog
+RPB4,chartered city,Caloocan
+RPB5,chartered city,Canlaon
+RPB6,chartered city,Cavite City
+RPB7,chartered city,Cebu City
+RPB8,chartered city,Cotabato
+RPB9,chartered city,Dagupan
+RPC1,chartered city,Danao
+RPC2,chartered city,Dapitan
+RPC3,chartered city,Davao City
+RPC4,chartered city,Dipolog
+RPC5,chartered city,Dumaguete
+RPC6,chartered city,General Santos
+RPC7,chartered city,Gingoog
+RPC8,chartered city,Iligan
+RPC9,chartered city,Iloilo City
+RPD1,chartered city,Iriga
+RPD2,chartered city,La Carlota
+RPD3,chartered city,Laoag
+RPD4,chartered city,Lapu-Lapu
+RPD5,chartered city,Legaspi
+RPD6,chartered city,Lipa
+RPD7,chartered city,Lucena
+RPD8,chartered city,Mandaue
+RPD9,chartered city,Manila
+RPE1,chartered city,Marawi
+RPE2,chartered city,Naga
+RPE3,chartered city,Olongapo
+RPE4,chartered city,Ormoc
+RPE5,chartered city,Oroquieta
+RPE6,chartered city,Ozamis
+RPE7,chartered city,Pagadian
+RPE8,chartered city,Palayan
+RPE9,chartered city,Pasay
+RPF1,chartered city,Puerto Princesa
+RPF2,chartered city,Quezon City
+RPF3,chartered city,Roxas
+RPF4,chartered city,San Carlos Negros Occidental
+RPF5,chartered city,San Carlos Pangasinan
+RPF6,chartered city,San Jose
+RPF7,chartered city,San Pablo
+RPF8,chartered city,Silay
+RPF9,chartered city,Surigao
+RPG1,chartered city,Tacloban
+RPG2,chartered city,Tagaytay
+RPG3,chartered city,Tagbilaran
+RPG4,chartered city,Tangub
+RPG5,chartered city,Toledo
+RPG6,chartered city,Trece Martires
+RPG7,chartered city,Zamboanga
+RPG8,province,Aurora
+RPH2,province,Quezon
+RPH3,province,Negros Occidental
+RQ00,country,PUERTO RICO
+RS00,country,RUSSIA
+RS01,republic respublika,Adygeya
+RS02,autonomous okrug avtonomnyy okrug,Aginskiy Buryatskiy Avtonomnyy Okrug
+RS03,republic respublika,Altay
+RS04,kray kray,Altayskiy Kray
+RS05,oblast oblast',Amurskaya Oblast'
+RS06,oblast oblast',Arkhangel'skaya Oblast'
+RS07,oblast oblast',Astrakhanskaya Oblast'
+RS08,republic respublika,Bashkortostan
+RS09,oblast oblast',Belgorodskaya Oblast'
+RS10,oblast oblast',Bryanskaya Oblast'
+RS11,republic respublika,Buryatiya
+RS12,republic respublika,Chechnya
+RS13,oblast oblast',Chelyabinskaya Oblast'
+RS14,oblast oblast',Chitinskaya Oblast'
+RS15,autonomous okrug avtonomnyy okrug,Chukotskiy Avtonomnyy Okrug
+RS16,republic respublika,Chuvashiya
+RS17,republic respublika,Dagestan
+RS19,republic respublika,Ingushetiya
+RS20,oblast oblast',Irkutskaya Oblast'
+RS21,oblast oblast',Ivanovskaya Oblast'
+RS22,republic respublika,Kabardino-Balkariya
+RS23,oblast oblast',Kaliningradskaya Oblast'
+RS24,republic respublika,Kalmykiya
+RS25,oblast oblast',Kaluzhskaya Oblast'
+RS27,republic respublika,Karachayevo-Cherkesiya
+RS28,republic respublika,Kareliya
+RS29,oblast oblast',Kemerovskaya Oblast'
+RS30,kray kray,Khabarovskiy Kray
+RS31,republic respublika,Khakasiya
+RS32,autonomous okrug avtonomnyy okrug,Khanty-Mansiyskiy Avtonomnyy Okrug
+RS33,oblast oblast',Kirovskaya Oblast'
+RS34,republic respublika,Komi
+RS37,oblast oblast',Kostromskaya Oblast'
+RS38,kray kray,Krasnodarskiy Kray
+RS40,oblast oblast',Kurganskaya Oblast'
+RS41,oblast oblast',Kurskaya Oblast'
+RS42,oblast oblast',Leningradskaya Oblast'
+RS43,oblast oblast',Lipetskaya Oblast'
+RS44,oblast oblast',Magadanskaya Oblast'
+RS45,republic respublika,Mariy-El
+RS46,republic respublika,Mordoviya
+RS47,oblast oblast',Moskovskaya Oblast'
+RS48,city gorod,Moskva
+RS49,oblast oblast',Murmanskaya Oblast'
+RS50,autonomous okrug avtonomnyy okrug,Nenetskiy Avtonomnyy Okrug
+RS51,oblast oblast',Nizhegorodskaya Oblast'
+RS52,oblast oblast',Novgorodskaya Oblast'
+RS53,oblast oblast',Novosibirskaya Oblast'
+RS54,oblast oblast',Omskaya Oblast'
+RS55,oblast oblast',Orenburgskaya Oblast'
+RS56,oblast oblast',Orlovskaya Oblast'
+RS57,oblast oblast',Penzenskaya Oblast'
+RS59,kray kray,Primorskiy Kray
+RS60,oblast oblast',Pskovskaya Oblast'
+RS61,oblast oblast',Rostovskaya Oblast'
+RS62,oblast oblast',Ryazanskaya Oblast'
+RS63,republic respublika,Sakha (Yakutiya)
+RS64,oblast oblast',Sakhalinskaya Oblast'
+RS65,oblast oblast',Samarskaya Oblast'
+RS66,city gorod,Sankt-Peterburg
+RS67,oblast oblast',Saratovskaya Oblast'
+RS68,republic respublika,Severnaya Osetiya-Alaniya
+RS69,oblast oblast',Smolenskaya Oblast'
+RS70,kray kray,Stavropol'skiy Kray
+RS71,oblast oblast',Sverdlovskaya Oblast'
+RS72,oblast oblast',Tambovskaya Oblast'
+RS73,republic respublika,Tatarstan
+RS75,oblast oblast',Tomskaya Oblast'
+RS76,oblast oblast',Tul'skaya Oblast'
+RS77,oblast oblast',Tverskaya Oblast'
+RS78,oblast oblast',Tyumenskaya Oblast'
+RS79,republic respublika,Tyva
+RS80,republic respublika,Udmurtiya
+RS81,oblast oblast',Ul'yanovskaya Oblast'
+RS82,autonomous okrug avtonomnyy okrug,Ust'-Ordynskiy Buryatskiy Avtonomnyy Okrug
+RS83,oblast oblast',Vladimirskaya Oblast'
+RS84,oblast oblast',Volgogradskaya Oblast'
+RS85,oblast oblast',Vologodskaya Oblast'
+RS86,oblast oblast',Voronezhskaya Oblast'
+RS87,autonomous okrug avtonomnyy okrug,Yamalo-Nenetskiy Avtonomnyy Okrug
+RS88,oblast oblast',Yaroslavskaya Oblast'
+RS89,autonomous oblast avtonomnaya oblast',Yevreyskaya Avtonomnaya Oblast'
+RS90,kray kray,Permskiy Kray
+RS91,kray kray,Krasnoyarskiy Kray
+RS92,kray kray,Kamchatskiy Kray
+RW00,country,RWANDA
+RW11,province province,Est
+RW12,city ville,Kigali
+RW13,province province,Nord
+RW14,province province,Ouest
+RW15,province province,Sud
+SA00,country,SAUDI ARABIA
+SA02,emirate mintaqah,Al Bahah
+SA05,emirate mintaqah,Al Madinah
+SA06,emirate mintaqah,Ash Sharqiyah
+SA08,emirate mintaqah,Al Qasim
+SA10,emirate mintaqah,Ar Riyad
+SA11,emirate mintaqah,`Asir
+SA13,emirate mintaqah,Ha'il
+SA14,emirate mintaqah,Makkah
+SA15,emirate mintaqah,Al Hudud ash Shamaliyah
+SA16,emirate mintaqah,Najran
+SA17,emirate mintaqah,Jizan
+SA19,emirate mintaqah,Tabuk
+SA20,emirate mintaqah,Al Jawf
+SB00,country,ST. PIERRE AND MIQUELON
+SC00,country,ST. KITTS AND NEVIS
+SC01,parish,Christ Church Nichola Town
+SC02,parish,Saint Anne Sandy Point
+SC03,parish,Saint George Basseterre
+SC04,parish,Saint George Gingerland
+SC05,parish,Saint James Windward
+SC06,parish,Saint John Capisterre
+SC07,parish,Saint John Figtree
+SC08,parish,Saint Mary Cayon
+SC09,parish,Saint Paul Capisterre
+SC10,parish,Saint Paul Charlestown
+SC11,parish,Saint Peter Basseterre
+SC12,parish,Saint Thomas Lowland
+SC13,parish,Saint Thomas Middle Island
+SC15,parish,Trinity Palmetto Point
+SE00,country,SEYCHELLES
+SE01,district district,Anse aux Pins
+SE02,district district,Anse Boileau
+SE03,district district,Anse Etoile
+SE05,district district,Anse Royale
+SE06,district district,Baie Lazare
+SE07,district district,Baie Sainte Anne
+SE08,district district,Beau Vallon
+SE09,district district,Bel Air
+SE10,district district,Bel Ombre
+SE11,district district,Cascade
+SE12,district district,Glacis
+SE14,district district,Grand' Anse (Praslin)
+SE17,district district,Mont Buxton
+SE18,district district,Mont Fleuri
+SE19,district district,Plaisance
+SE20,district district,Pointe La Rue
+SE22,district district,Saint Louis
+SE23,district district,Takamaka
+SE24,district district,Grand Anse Mahe
+SE25,district district,Inner Islands
+SE26,district district,English River
+SE27,district district,Port Glaud
+SE28,district district,Au Cap
+SE29,district district,Les Mamelles
+SE30,district district,Roche Caiman
+SF00,country,SOUTH AFRICA
+SF02,province,KwaZulu-Natal
+SF03,province,Free State
+SF05,province,Eastern Cape
+SF06,province,Gauteng
+SF07,province,Mpumalanga
+SF08,province,Northern Cape
+SF09,province,Limpopo
+SF10,province,North-West
+SF11,province,Western Cape
+SG00,country,SENEGAL
+SG01,region region,Dakar
+SG03,region region,Diourbel
+SG05,region region,Tambacounda
+SG07,region region,Thies
+SG09,region region,Fatick
+SG10,region region,Kaolack
+SG11,region region,Kolda
+SG12,region region,Ziguinchor
+SG13,region region,Louga
+SG14,region region,Saint-Louis
+SG15,region region,Matam
+SH00,country,ST. HELENA
+SH01,administrative area,Ascension
+SH02,dependency,Saint Helena
+SH03,dependency,Tristan da Cunha
+SI00,country,SLOVENIA
+SI01,commune občina,Ajdovščina
+SI02,commune občina,Beltinci
+SI03,commune občina,Bled
+SI04,commune občina,Bohinj
+SI05,commune občina,Borovnica
+SI06,commune občina,Bovec
+SI07,commune občina,Brda
+SI08,commune občina,Brežice
+SI09,commune občina,Brezovica
+SI11,commune občina,Celje
+SI12,commune občina,Cerklje na Gorenjskem
+SI13,commune občina,Cerknica
+SI14,commune občina,Cerkno
+SI15,commune občina,Črenšovci
+SI16,commune občina,Črna na Koroškem
+SI17,commune občina,Črnomelj
+SI19,commune občina,Divača
+SI20,commune občina,Dobrepolje
+SI22,commune občina,Dol pri Ljubljani
+SI24,commune občina,Dornava
+SI25,commune občina,Dravograd
+SI26,commune občina,Duplek
+SI27,commune občina,Gorenja Vas-Poljane
+SI28,commune občina,Gorišnica
+SI29,commune občina,Gornja Radgona
+SI30,commune občina,Gornji Grad
+SI31,commune občina,Gornji Petrovci
+SI32,commune občina,Grosuplje
+SI34,commune občina,Hrastnik
+SI35,commune občina,Hrpelje-Kozina
+SI36,commune občina,Idrija
+SI37,commune občina,Ig
+SI38,commune občina,Ilirska Bistrica
+SI39,commune občina,Ivančna Gorica
+SI40,commune občina,Izola-Isola
+SI42,commune občina,Juršinci
+SI44,commune občina,Kanal
+SI45,commune občina,Kidričevo
+SI46,commune občina,Kobarid
+SI47,commune občina,Kobilje
+SI49,commune občina,Komen
+SI50,urban commune mestna občina,Koper-Capodistria
+SI51,commune občina,Kozje
+SI52,commune občina,Kranj
+SI53,commune občina,Kranjska Gora
+SI54,commune občina,Krško
+SI55,commune občina,Kungota
+SI57,commune občina,Laško
+SI61,urban commune mestna občina,Ljubljana
+SI62,commune občina,Ljubno
+SI64,commune občina,Logatec
+SI66,commune občina,Loški Potok
+SI68,commune občina,Lukovica
+SI71,commune občina,Medvode
+SI72,commune občina,Mengeš
+SI73,commune občina,Metlika
+SI74,commune občina,Mežica
+SI76,commune občina,Mislinja
+SI77,commune občina,Moravče
+SI78,commune občina,Moravske Toplice
+SI79,commune občina,Mozirje
+SI80,urban commune mestna občina,Murska Sobota
+SI81,commune občina,Muta
+SI82,commune občina,Naklo
+SI83,commune občina,Nazarje
+SI84,urban commune mestna občina,Nova Gorica
+SI86,commune občina,Odranci
+SI87,commune občina,Ormož
+SI88,commune občina,Osilnica
+SI89,commune občina,Pesnica
+SI91,commune občina,Pivka
+SI92,commune občina,Podčetrtek
+SI94,commune občina,Postojna
+SI97,commune občina,Puconci
+SI98,commune občina,Rače-Fram
+SI99,commune občina,Radeče
+SIA1,commune občina,Radenci
+SIA2,commune občina,Radlje ob Dravi
+SIA3,commune občina,Radovljica
+SIA6,commune občina,Rogašovci
+SIA7,commune občina,Rogaška Slatina
+SIA8,commune občina,Rogatec
+SIB1,commune občina,Semič
+SIB2,commune občina,Šenčur
+SIB3,commune občina,Šentilj
+SIB4,commune občina,Šentjernej
+SIB6,commune občina,Sevnica
+SIB7,commune občina,Sežana
+SIB8,commune občina,Škocjan
+SIB9,commune občina,Škofja Loka
+SIC1,commune občina,Škofljica
+SIC2,urban commune mestna občina,Slovenj Gradec
+SIC4,commune občina,Slovenske Konjice
+SIC5,commune občina,Šmarje pri Jelšah
+SIC6,commune občina,Šmartno ob Paki
+SIC7,commune občina,Šoštanj
+SIC8,commune občina,Starše
+SIC9,commune občina,Štore
+SID1,commune občina,Sveti Jurij
+SID2,commune občina,Tolmin
+SID3,commune občina,Trbovlje
+SID4,commune občina,Trebnje
+SID5,commune občina,Tržič
+SID6,commune občina,Turnišče
+SID7,urban commune mestna občina,Velenje
+SID8,commune občina,Velike Lašče
+SIE1,commune občina,Vipava
+SIE2,commune občina,Vitanje
+SIE3,commune občina,Vodice
+SIE5,commune občina,Vrhnika
+SIE6,commune občina,Vuzenica
+SIE7,commune občina,Zagorje ob Savi
+SIE9,commune občina,Zavrč
+SIF1,commune občina,Železniki
+SIF2,commune občina,Žiri
+SIF3,commune občina,Zreče
+SIF4,commune občina,Benedikt
+SIF5,commune občina,Bistrica ob Sotli
+SIF6,commune občina,Bloke
+SIF7,commune občina,Braslovče
+SIF8,commune občina,Cankova
+SIF9,commune občina,Cerkvenjak
+SIG1,commune občina,Destrnik
+SIG2,commune občina,Dobje
+SIG3,commune občina,Dobrna
+SIG4,commune občina,Dobrova-Horjul-Polhov Gradec
+SIG5,commune občina,Dobrovnik-Dobronak
+SIG6,commune občina,Dolenjske Toplice
+SIG7,commune občina,Domžale
+SIG8,commune občina,Grad
+SIG9,commune občina,Hajdina
+SIH1,commune občina,Hoče-Slivnica
+SIH2,commune občina,Hodoš-Hodos
+SIH3,commune občina,Horjul
+SIH4,commune občina,Jesenice
+SIH5,commune občina,Jezersko
+SIH6,commune občina,Kamnik
+SIH7,commune občina,Kočevje
+SIH8,commune občina,Komenda
+SIH9,commune občina,Kostel
+SII1,commune občina,Križevci
+SII2,commune občina,Kuzma
+SII3,commune občina,Lenart
+SII4,commune občina,Lendava-Lendva
+SII5,commune občina,Litija
+SII6,commune občina,Ljutomer
+SII7,commune občina,Loška Dolina
+SII8,commune občina,Lovrenc na Pohorju
+SII9,commune občina,Luče
+SIJ1,commune občina,Majšperk
+SIJ2,commune občina,Maribor
+SIJ3,commune občina,Markovci
+SIJ4,commune občina,Miklavž na Dravskem Polju
+SIJ5,commune občina,Miren-Kostanjevica
+SIJ6,commune občina,Mirna Peč
+SIJ7,urban commune mestna občina,Novo Mesto
+SIJ8,commune občina,Oplotnica
+SIJ9,commune občina,Piran-Pirano
+SIK1,commune občina,Podlehnik
+SIK2,commune občina,Podvelka
+SIK3,commune občina,Polzela
+SIK4,commune občina,Prebold
+SIK5,commune občina,Preddvor
+SIK6,commune občina,Prevalje
+SIK7,urban commune mestna občina,Ptuj
+SIK8,commune občina,Ravne na Koroškem
+SIK9,commune občina,Razkrižje
+SIL1,commune občina,Ribnica
+SIL2,commune občina,Ribnica na Pohorju
+SIL3,commune občina,Ruše
+SIL4,commune občina,Šalovci
+SIL5,commune občina,Selnica ob Dravi
+SIL6,commune občina,Šempeter-Vrtojba
+SIL7,commune občina,Šentjur pri Celju
+SIL8,commune občina,Slovenska Bistrica
+SIL9,commune občina,Šmartno pri Litiji
+SIM1,commune občina,Sodražica
+SIM2,commune občina,Solčava
+SIM3,commune občina,Sveta Ana
+SIM4,commune občina,Sveti Andraž v Slovenskih Goricah
+SIM5,commune občina,Tabor
+SIM6,commune občina,Tišina
+SIM7,commune občina,Trnovska Vas
+SIM8,commune občina,Trzin
+SIM9,commune občina,Velika Polana
+SIN1,commune občina,Veržej
+SIN2,commune občina,Videm
+SIN3,commune občina,Vojnik
+SIN4,commune občina,Vransko
+SIN5,commune občina,Žalec
+SIN6,commune občina,Žetale
+SIN7,commune občina,Žirovnica
+SIN8,commune občina,Žužemberk
+SL00,country,SIERRA LEONE
+SL01,province,Eastern
+SL02,province,Northern
+SL03,province,Southern
+SL04,province,Western Area
+SM00,country,SAN MARINO
+SM01,municipality castello,Acquaviva
+SM02,municipality castello,Chiesanuova
+SM03,municipality castello,Domagnano
+SM04,municipality castello,Faetano
+SM05,municipality castello,Fiorentino
+SM06,municipality castello,Borgo Maggiore
+SM07,municipality castello,San Marino
+SM08,municipality castello,Monte Giardino
+SM09,municipality castello,Serravalle
+SN00,country,SINGAPORE
+SO00,country,SOMALIA
+SO01,region gobolka,Bakool
+SO02,region gobolka,Banaadir
+SO03,region gobolka,Bari
+SO04,region gobolka,Bay
+SO05,region gobolka,Galguduud
+SO06,region gobolka,Gedo
+SO07,region gobolka,Hiiraan
+SO08,region gobolka,Jubbada Dhexe
+SO09,region gobolka,Jubbada Hoose
+SO10,region gobolka,Mudug
+SO12,region gobolka,Sanaag
+SO13,region gobolka,Shabeellaha Dhexe
+SO14,region gobolka,Shabeellaha Hoose
+SO18,region gobolka,Nugaal
+SO19,region gobolka,Togdheer
+SO20,region gobolka,Woqooyi Galbeed
+SO21,region gobolka,Awdal
+SO22,region gobolka,Sool
+SP00,country,SPAIN
+SP07,autonomous community comunidad autonoma,Islas Baleares
+SP27,autonomous community comunidad autonoma,La Rioja
+SP29,community comunidad,Madrid
+SP31,autonomous community comunidad autonoma,Murcia
+SP32,statutory community comunidad foral,Navarra
+SP34,autonomous community comunidad autonoma,Asturias
+SP39,autonomous community comunidad autonoma,Cantabria
+SP51,autonomous community comunidad autonoma,Andalucia
+SP52,autonomous community comunidad autonoma,Aragon
+SP53,autonomous community comunidad autonoma,Canarias
+SP54,autonomous community comunidad autonoma,Castilla-La Mancha
+SP55,autonomous community comunidad autonoma,Castilla y Leon
+SP56,autonomous community comunidad autonoma,Cataluna
+SP57,autonomous community comunidad autonoma,Extremadura
+SP58,autonomous community comunidad autonoma,Galicia
+SP59,autonomous community comunidad autonoma,Pais Vasco
+SP60,autonomous community comunidad autonoma,Valenciana
+ST00,country,ST. LUCIA
+ST01,quarter,Anse-la-Raye
+ST02,quarter,Dauphin
+ST03,quarter,Castries
+ST04,quarter,Choiseul
+ST05,quarter,Dennery
+ST06,quarter,Gros-Islet
+ST07,quarter,Laborie
+ST08,quarter,Micoud
+ST09,quarter,Soufriere
+ST10,quarter,Vieux-Fort
+ST11,quarter,Praslin
+SU00,country,SUDAN
+SU29,province wilāyat,Al Kharţūm
+SU35,province wilāyat,Aʽālī an Nīl
+SU36,province wilāyat,Al Baḩr al Aḩmar
+SU37,province wilāyat,Al Buḩayrāt
+SU38,province wilāyat,Al Jazīrah
+SU39,province wilāyat,Al Qaḑārif
+SU40,province wilāyat,Al Waḩdah
+SU41,province wilāyat,An Nīl al Abyaḑ
+SU42,province wilāyat,An Nīl al Azraq
+SU43,province wilāyat,Ash Shamālīyah
+SU44,province wilāyat,Baḩr al Jabal
+SU45,province wilāyat,Gharb al Istiwāʼīyah
+SU46,province wilāyat,Gharb Baḩr al Ghazāl
+SU47,province wilāyat,Gharb Dārfūr
+SU48,province wilāyat,Gharb Kurdufān
+SU49,province wilāyat,Janūb Dārfūr
+SU50,province wilāyat,Janūb Kurdufān
+SU51,province wilāyat,Junqalī
+SU52,province wilāyat,Kassalā
+SU53,province wilāyat,Nahr an Nīl
+SU54,province wilāyat,Shamāl Baḩr al Ghazāl
+SU55,province wilāyat,Shamāl Dārfūr
+SU56,province wilāyat,Shamāl Kurdufān
+SU57,province wilāyat,Sharq al Istiwāʼīyah
+SU58,province wilāyat,Sinnār
+SU59,province wilāyat,Warab
+SV00,country,SVALBARD
+SW00,country,SWEDEN
+SW02,province lan,Blekinge Lan
+SW03,province lan,Gavleborgs Lan
+SW05,province lan,Gotlands Lan
+SW06,province lan,Hallands Lan
+SW07,province lan,Jamtlands Lan
+SW08,province lan,Jonkopings Lan
+SW09,province lan,Kalmar Lan
+SW10,province lan,Dalarnas Län
+SW12,province lan,Kronobergs Lan
+SW14,province lan,Norrbottens Lan
+SW15,province lan,Orebro Lan
+SW16,province lan,Ostergotlands Lan
+SW18,province lan,Sodermanlands Lan
+SW21,province lan,Uppsala Lan
+SW22,province lan,Varmlands Lan
+SW23,province lan,Vasterbottens Lan
+SW24,province lan,Vasternorrlands Lan
+SW25,province lan,Vastmanlands Lan
+SW26,province lan,Stockholms Lan
+SW27,province lan,Skåne Län
+SW28,province lan,Västra Götalands Län
+SX00,country,SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS
+SY00,country,SYRIA
+SY01,province muhafazah,Al Hasakah
+SY02,province muhafazah,Al Ladhiqiyah
+SY03,province muhafazah,Al Qunaytirah
+SY04,province muhafazah,Ar Raqqah
+SY05,province muhafazah,As Suwayda'
+SY06,province muhafazah,Dar`a
+SY07,province muhafazah,Dayr az Zawr
+SY08,province muhafazah,Rif Dimashq
+SY09,province muhafazah,Halab
+SY10,province muhafazah,Hamah
+SY11,province muhafazah,Hims
+SY12,province muhafazah,Idlib
+SY13,province muhafazah,Dimashq
+SY14,province muhafazah,Tartus
+SZ00,country,SWITZERLAND
+SZ01,canton canton cantone kanton,Aargau
+SZ02,canton canton cantone kanton,Ausser-Rhoden
+SZ03,canton canton cantone kanton,Basel-Landschaft
+SZ04,canton canton cantone kanton,Basel-Stadt
+SZ05,canton canton cantone kanton,Bern
+SZ06,canton canton cantone kanton,Fribourg
+SZ07,canton canton cantone kanton,Geneve
+SZ08,canton canton cantone kanton,Glarus
+SZ09,canton canton cantone kanton,Graubunden
+SZ10,canton canton cantone kanton,Inner-Rhoden
+SZ11,canton canton cantone kanton,Luzern
+SZ12,canton canton cantone kanton,Neuchatel
+SZ13,canton canton cantone kanton,Nidwalden
+SZ14,canton canton cantone kanton,Obwalden
+SZ15,canton canton cantone kanton,Sankt Gallen
+SZ16,canton canton cantone kanton,Schaffhausen
+SZ17,canton canton cantone kanton,Schwyz
+SZ18,canton canton cantone kanton,Solothurn
+SZ19,canton canton cantone kanton,Thurgau
+SZ20,canton canton cantone kanton,Ticino
+SZ21,canton canton cantone kanton,Uri
+SZ22,canton canton cantone kanton,Valais
+SZ23,canton canton cantone kanton,Vaud
+SZ24,canton canton cantone kanton,Zug
+SZ25,canton canton cantone kanton,Zurich
+SZ26,canton canton cantone kanton,Jura
+TB00,country,SAINT BARTHELEMY
+TD00,country,TRINIDAD
+TD01,municipality,Arima
+TD02,county,Caroni
+TD03,county,Mayaro
+TD04,county,Nariva
+TD05,municipality,Port-of-Spain
+TD06,county,Saint Andrew
+TD07,county,Saint David
+TD08,county,Saint George
+TD09,county,Saint Patrick
+TD10,municipality,San Fernando
+TD11,ward,Tobago
+TD12,county,Victoria
+TE00,country,TROMELIN ISLAND
+TH00,country,THAILAND
+TH01,province changwat,Mae Hong Son
+TH02,province changwat,Chiang Mai
+TH03,province changwat,Chiang Rai
+TH04,province changwat,Nan
+TH05,province changwat,Lamphun
+TH06,province changwat,Lampang
+TH07,province changwat,Phrae
+TH08,province changwat,Tak
+TH09,province changwat,Sukhothai
+TH10,province changwat,Uttaradit
+TH11,province changwat,Kamphaeng Phet
+TH12,province changwat,Phitsanulok
+TH13,province changwat,Phichit
+TH14,province changwat,Phetchabun
+TH15,province changwat,Uthai Thani
+TH16,province changwat,Nakhon Sawan
+TH17,province changwat,Nong Khai
+TH18,province changwat,Loei
+TH20,province changwat,Sakon Nakhon
+TH22,province changwat,Khon Kaen
+TH23,province changwat,Kalasin
+TH24,province changwat,Maha Sarakham
+TH25,province changwat,Roi Et
+TH26,province changwat,Chaiyaphum
+TH27,province changwat,Nakhon Ratchasima
+TH28,province changwat,Buriram
+TH29,province changwat,Surin
+TH30,province changwat,Sisaket
+TH31,province changwat,Narathiwat
+TH32,province changwat,Chai Nat
+TH33,province changwat,Sing Buri
+TH34,province changwat,Lop Buri
+TH35,province changwat,Ang Thong
+TH36,province changwat,Phra Nakhon Si Ayutthaya
+TH37,province changwat,Saraburi
+TH38,province changwat,Nonthaburi
+TH39,province changwat,Pathum Thani
+TH40,municipality,Krung Thep
+TH41,province changwat,Phayao
+TH42,province changwat,Samut Prakan
+TH43,province changwat,Nakhon Nayok
+TH44,province changwat,Chachoengsao
+TH46,province changwat,Chon Buri
+TH47,province changwat,Rayong
+TH48,province changwat,Chanthaburi
+TH49,province changwat,Trat
+TH50,province changwat,Kanchanaburi
+TH51,province changwat,Suphan Buri
+TH52,province changwat,Ratchaburi
+TH53,province changwat,Nakhon Pathom
+TH54,province changwat,Samut Songkhram
+TH55,province changwat,Samut Sakhon
+TH56,province changwat,Phetchaburi
+TH57,province changwat,Prachuap Khiri Khan
+TH58,province changwat,Chumphon
+TH59,province changwat,Ranong
+TH60,province changwat,Surat Thani
+TH61,province changwat,Phangnga
+TH62,province changwat,Phuket
+TH63,province changwat,Krabi
+TH64,province changwat,Nakhon Si Thammarat
+TH65,province changwat,Trang
+TH66,province changwat,Phatthalung
+TH67,province changwat,Satun
+TH68,province changwat,Songkhla
+TH69,province changwat,Pattani
+TH70,province changwat,Yala
+TH72,province changwat,Yasothon
+TH73,province changwat,Nakhon Phanom
+TH74,province changwat,Prachin Buri
+TH75,province changwat,Ubon Ratchathani
+TH76,province changwat,Udon Thani
+TH77,province changwat,Amnta Charoen
+TH78,province changwat,Mukdahan
+TH79,province changwat,Nong Bua Lamphu
+TH80,province changwat,Sa Kaeo
+TI00,country,TAJIKISTAN
+TI01,autonomous province viloyati mukhtor,Kŭhistoni Badakhshon
+TI02,province viloyati,Khatlon
+TI03,province viloyati,Sughd
+TK00,country,TURKS AND CAICOS ISLANDS
+TL00,country,TOKELAU
+TN00,country,TONGA
+TN01,island group,Ha`apai
+TN02,island group,Tongatapu
+TN03,island group,Vava`u
+TO00,country,TOGO
+TO22,region région,Centrale
+TO23,region région,Kara
+TO24,region région,Maritime
+TO25,region région,Plateaux
+TO26,region région,Savanes
+TP00,country,SAO TOME AND PRINCIPE
+TP01,district concelho,Principe
+TP02,district concelho,Sao Tome
+TS00,country,TUNISIA
+TS02,governorate wilayah,Al Qasrayn
+TS03,governorate wilayah,Al Qayrawan
+TS06,governorate wilayah,Jundubah
+TS10,governorate wilayah,Qafsah
+TS14,governorate wilayah,Kef
+TS15,governorate wilayah,Al Mahdiyah
+TS16,governorate wilayah,Al Munastir
+TS17,governorate wilayah,Bajah
+TS18,governorate wilayah,Banzart
+TS19,governorate wilayah,Nabul
+TS22,governorate wilayah,Silyanah
+TS23,governorate wilayah,Susah
+TS27,governorate wilayah,Bin `Arus
+TS28,governorate wilayah,Madanin
+TS29,governorate wilayah,Qabis
+TS31,governorate wilayah,Qibili
+TS32,governorate wilayah,Safaqis
+TS33,governorate wilayah,Sidi Bu Zayd
+TS34,governorate wilayah,Tatawin
+TS35,governorate wilayah,Tawzar
+TS36,governorate wilayah,Tunis
+TS37,governorate wilayah,Zaghwan
+TS38,governorate wilayah,Ariana
+TS39,governorate wilayah,Manouba
+TT00,country,TIMOR-LESTE
+TU00,country,TURKEY
+TU02,province il,Adiyaman
+TU03,province il,Afyonkarahisar
+TU04,province il,Agri
+TU05,province il,Amasya
+TU07,province il,Antalya
+TU08,province il,Artvin
+TU09,province il,Aydin
+TU10,province il,Balikesir
+TU11,province il,Bilecik
+TU12,province il,Bingol
+TU13,province il,Bitlis
+TU14,province il,Bolu
+TU15,province il,Burdur
+TU16,province il,Bursa
+TU17,province il,Canakkale
+TU19,province il,Corum
+TU20,province il,Denizli
+TU21,province il,Diyarbakir
+TU22,province il,Edirne
+TU23,province il,Elazig
+TU24,province il,Erzincan
+TU25,province il,Erzurum
+TU26,province il,Eskisehir
+TU28,province il,Giresun
+TU31,province il,Hatay
+TU32,province il,Icel
+TU33,province il,Isparta
+TU34,province il,Istanbul
+TU35,province il,Izmir
+TU37,province il,Kastamonu
+TU38,province il,Kayseri
+TU39,province il,Kirklareli
+TU40,province il,Kirsehir
+TU41,province il,Kocaeli
+TU43,province il,Kutahya
+TU44,province il,Malatya
+TU45,province il,Manisa
+TU46,province il,Kahramanmaraş
+TU48,province il,Mugla
+TU49,province il,Mus
+TU50,province il,Nevsehir
+TU52,province il,Ordu
+TU53,province il,Rize
+TU54,province il,Sakarya
+TU55,province il,Samsun
+TU57,province il,Sinop
+TU58,province il,Sivas
+TU59,province il,Tekirdag
+TU60,province il,Tokat
+TU61,province il,Trabzon
+TU62,province il,Tunceli
+TU63,province il,Şanlıurfa
+TU64,province il,Usak
+TU65,province il,Van
+TU66,province il,Yozgat
+TU68,province il,Ankara
+TU69,province il,Gumushane
+TU70,province il,Hakkari
+TU71,province il,Konya
+TU72,province il,Mardin
+TU73,province il,Nigde
+TU74,province il,Siirt
+TU75,province il,Aksaray
+TU76,province il,Batman
+TU77,province il,Bayburt
+TU78,province il,Karaman
+TU79,province il,Kirikkale
+TU80,province il,Sirnak
+TU81,province il,Adana
+TU82,province il,Çankırı
+TU83,province il,Gaziantep
+TU84,province il,Kars
+TU85,province il,Zonguldak
+TU86,province il,Ardahan
+TU87,province il,Bartın İli
+TU88,province il,Iğdır
+TU89,province il,Karabük
+TU90,province il,Kilis
+TU91,province il,Osmaniye
+TU92,province il,Yalova
+TU93,province il,Düzce
+TV00,country,TUVALU
+TW00,country,TAIWAN
+TW01,province sheng,Fu-chien
+TW02,municipality shih,Kao-hsiung
+TW03,municipality shih,T'ai-pei
+TW04,province sheng,T'ai-wan
+TX00,country,TURKMENISTAN
+TX01,province welayat,Ahal
+TX02,province welayat,Balkan
+TX03,province welayat,Dashhowuz
+TX04,province welayat,Lebap
+TX05,province welayat,Mary
+TZ00,country,TANZANIA
+TZ02,region,Pwani
+TZ03,region,Dodoma
+TZ04,region,Iringa
+TZ05,region,Kigoma
+TZ06,region,Kilimanjaro
+TZ07,region,Lindi
+TZ08,region,Mara
+TZ09,region,Mbeya
+TZ10,region,Morogoro
+TZ11,region,Mtwara
+TZ12,region,Mwanza
+TZ13,region,Pemba North
+TZ14,region,Ruvuma
+TZ15,region,Shinyanga
+TZ16,region,Singida
+TZ17,region,Tabora
+TZ18,region,Tanga
+TZ19,region,Kagera
+TZ20,region,Pemba South
+TZ21,region,Zanzibar Central/South
+TZ22,region,Zanzibar North
+TZ23,region,Dar es Salaam
+TZ24,region,Rukwa
+TZ25,region,Zanzibar Urban/West
+TZ26,region,Arusha
+TZ27,region,Manyara
+UG00,country,UGANDA
+UG26,district,Apac
+UG28,district,Bundibugyo
+UG29,district,Bushenyi
+UG30,district,Gulu
+UG31,district,Hoima
+UG33,district,Jinja
+UG34,district,Kabale
+UG36,district,Kalangala
+UG37,district,Kampala
+UG38,district,Kamuli
+UG39,district,Kapchorwa
+UG40,district,Kasese
+UG41,district,Kibale
+UG42,district,Kiboga
+UG43,district,Kisoro
+UG45,district,Kotido
+UG46,district,Kumi
+UG47,district,Lira
+UG50,district,Masindi
+UG52,district,Mbarara
+UG56,district,Mubende
+UG58,district,Nebbi
+UG59,district,Ntungamo
+UG60,district,Pallisa
+UG61,district,Rakai
+UG65,district,Adjumani
+UG66,district,Bugiri
+UG67,district,Busia
+UG69,district,Katakwi
+UG70,district,Luwero
+UG71,district,Masaka
+UG72,district,Moyo
+UG73,district,Nakasongola
+UG74,district,Sembabule
+UG76,district,Tororo
+UG77,district,Arua
+UG78,district,Iganga
+UG79,district,Kabarole
+UG80,district,Kaberamaido
+UG81,district,Kamwenge
+UG82,district,Kanungu
+UG83,district,Kayunga
+UG84,district,Kitgum
+UG85,district,Kyenjojo
+UG86,district,Mayuge
+UG87,district,Mbale
+UG88,district,Moroto
+UG89,district,Mpigi
+UG90,district,Mukono
+UG91,district,Nakapiripirit
+UG92,district,Pader
+UG93,district,Rukungiri
+UG94,district,Sironko
+UG95,district,Soroti
+UG96,district,Wakiso
+UG97,district,Yumbe
+UK00,country,UNITED KINGDOM
+UKA1,London borough,Barking and Dagenham
+UKA2,London borough,Barnet
+UKA3,metropolitan district,Barnsley
+UKA4,unitary authority,Bath and North East Somerset
+UKA5,county,Bedfordshire
+UKA6,London borough,Bexley
+UKA7,metropolitan district,Birmingham
+UKA8,unitary authority,Blackburn with Darwen
+UKA9,unitary authority,Blackpool
+UKB1,metropolitan district,Bolton
+UKB2,unitary authority,Bournemouth
+UKB3,unitary authority,Bracknell Forest
+UKB4,metropolitan district,Bradford
+UKB5,London borough,Brent
+UKB6,unitary authority,Brighton and Hove
+UKB7,unitary authority,Bristol City of
+UKB8,London borough,Bromley
+UKB9,county,Buckinghamshire
+UKC1,metropolitan district,Bury
+UKC2,metropolitan district,Calderdale
+UKC3,county,Cambridgeshire
+UKC4,London borough,Camden
+UKC5,county,Cheshire
+UKC6,county,Cornwall
+UKC7,metropolitan district,Coventry
+UKC8,London borough,Croydon
+UKC9,county,Cumbria
+UKD1,unitary authority,Darlington
+UKD2,unitary authority,Derby
+UKD3,county,Derbyshire
+UKD4,county,Devon
+UKD5,metropolitan district,Doncaster
+UKD6,county,Dorset
+UKD7,metropolitan district,Dudley
+UKD8,county,Durham
+UKD9,London borough,Ealing
+UKE1,unitary authority,East Riding of Yorkshire
+UKE2,county,East Sussex
+UKE3,London borough,Enfield
+UKE4,county,Essex
+UKE5,metropolitan district,Gateshead
+UKE6,county,Gloucestershire
+UKE7,London borough,Greenwich
+UKE8,London borough,Hackney
+UKE9,unitary authority,Halton
+UKF1,London borough,Hammersmith and Fulham
+UKF2,county,Hampshire
+UKF3,London borough,Haringey
+UKF4,London borough,Harrow
+UKF5,unitary authority,Hartlepool
+UKF6,London borough,Havering
+UKF7,unitary authority,Herefordshire
+UKF8,county,Hertfordshire
+UKF9,London borough,Hillingdon
+UKG1,London borough,Hounslow
+UKG2,unitary authority,Isle of Wight
+UKG3,London borough,Islington
+UKG4,London borough,Kensington and Chelsea
+UKG5,county,Kent
+UKG6,unitary authority,Kingston upon Hull City of
+UKG7,London borough,Kingston upon Thames
+UKG8,metropolitan district,Kirklees
+UKG9,metropolitan district,Knowsley
+UKH1,London borough,Lambeth
+UKH2,county,Lancashire
+UKH3,metropolitan district,Leeds
+UKH4,unitary authority,Leicester
+UKH5,county,Leicestershire
+UKH6,London borough,Lewisham
+UKH7,county,Lincolnshire
+UKH8,metropolitan district,Liverpool
+UKH9,city corporation,London City of
+UKI1,unitary authority,Luton
+UKI2,metropolitan district,Manchester
+UKI3,unitary authority,Medway
+UKI4,London borough,Merton
+UKI5,unitary authority,Middlesbrough
+UKI6,unitary authority,Milton Keynes
+UKI7,metropolitan district,Newcastle upon Tyne
+UKI8,London borough,Newham
+UKI9,county,Norfolk
+UKJ1,county,Northamptonshire
+UKJ2,unitary authority,North East Lincolnshire
+UKJ3,unitary authority,North Lincolnshire
+UKJ4,unitary authority,North Somerset
+UKJ5,metropolitan district,North Tyneside
+UKJ6,county,Northumberland
+UKJ7,county,North Yorkshire
+UKJ8,unitary authority,Nottingham
+UKJ9,county,Nottinghamshire
+UKK1,metropolitan district,Oldham
+UKK2,county,Oxfordshire
+UKK3,unitary authority,Peterborough
+UKK4,unitary authority,Plymouth
+UKK5,unitary authority,Poole
+UKK6,unitary authority,Portsmouth
+UKK7,unitary authority,Reading
+UKK8,London borough,Redbridge
+UKK9,unitary authority,Redcar and Cleveland
+UKL1,London borough,Richmond upon Thames
+UKL2,metropolitan district,Rochdale
+UKL3,metropolitan district,Rotherham
+UKL4,unitary authority,Rutland
+UKL5,metropolitan district,Salford
+UKL6,county,Shropshire
+UKL7,metropolitan district,Sandwell
+UKL8,metropolitan district,Sefton
+UKL9,metropolitan district,Sheffield
+UKM1,unitary authority,Slough
+UKM2,metropolitan district,Solihull
+UKM3,county,Somerset
+UKM4,unitary authority,Southampton
+UKM5,unitary authority,Southend-on-Sea
+UKM6,unitary authority,South Gloucestershire
+UKM7,metropolitan district,South Tyneside
+UKM8,London borough,Southwark
+UKM9,county,Staffordshire
+UKN1,metropolitan district,St. Helens
+UKN2,metropolitan district,Stockport
+UKN3,unitary authority,Stockton-on-Tees
+UKN4,unitary authority,Stoke-on-Trent
+UKN5,county,Suffolk
+UKN6,metropolitan district,Sunderland
+UKN7,county,Surrey
+UKN8,London borough,Sutton
+UKN9,unitary authority,Swindon
+UKO1,metropolitan district,Tameside
+UKO2,unitary authority,Telford and Wrekin
+UKO3,unitary authority,Thurrock
+UKO4,unitary authority,Torbay
+UKO5,London borough,Tower Hamlets
+UKO6,metropolitan district,Trafford
+UKO7,metropolitan district,Wakefield
+UKO8,metropolitan district,Walsall
+UKO9,London borough,Waltham Forest
+UKP1,London borough,Wandsworth
+UKP2,unitary authority,Warrington
+UKP3,county,Warwickshire
+UKP4,unitary authority,West Berkshire
+UKP5,London borough,Westminster
+UKP6,county,West Sussex
+UKP7,metropolitan district,Wigan
+UKP8,county,Wiltshire
+UKP9,unitary authority,Windsor and Maidenhead
+UKQ1,metropolitan district,Wirral
+UKQ2,unitary authority,Wokingham
+UKQ3,metropolitan district,Wolverhampton
+UKQ4,county,Worcestershire
+UKQ5,unitary authority,York
+UKQ6,district,Antrim
+UKQ7,district,Ards
+UKQ8,district,Armagh
+UKQ9,district,Ballymena
+UKR1,district,Ballymoney
+UKR2,district,Banbridge
+UKR3,district,Belfast
+UKR4,district,Carrickfergus
+UKR5,district,Castlereagh
+UKR6,district,Coleraine
+UKR7,district,Cookstown
+UKR8,district,Craigavon
+UKR9,district,Down
+UKS1,district,Dungannon
+UKS2,district,Fermanagh
+UKS3,district,Larne
+UKS4,district,Limavady
+UKS5,district,Lisburn
+UKS6,district,Londonderry
+UKS7,district,Magherafelt
+UKS8,district,Moyle
+UKS9,district,Newry and Mourne
+UKT1,district,Newtownabbey
+UKT2,district,North Down
+UKT3,district,Omagh
+UKT4,district,Strabane
+UKT5,council area,Aberdeen City
+UKT6,council area,Aberdeenshire
+UKT7,council area,Angus
+UKT8,council area,Argyll and Bute
+UKT9,region,Scottish Borders The
+UKU1,council area,Clackmannanshire
+UKU2,region,Dumfries and Galloway
+UKU3,council area,Dundee City
+UKU4,council area,East Ayrshire
+UKU5,council area,East Dunbartonshire
+UKU6,council area,East Lothian
+UKU7,council area,East Renfrewshire
+UKU8,council area,Edinburgh City of
+UKU9,council area,Falkirk
+UKV1,region,Fife
+UKV2,council area,Glasgow City
+UKV3,region,Highland
+UKV4,council area,Inverclyde
+UKV5,council area,Midlothian
+UKV6,council area,Moray
+UKV7,council area,North Ayrshire
+UKV8,council area,North Lanarkshire
+UKV9,islands area,Orkney
+UKW1,council area,Perth and Kinross
+UKW2,council area,Renfrewshire
+UKW3,islands area,Shetland Islands
+UKW4,council area,South Ayrshire
+UKW5,council area,South Lanarkshire
+UKW6,council area,Stirling
+UKW7,council area,West Dunbartonshire
+UKW8,islands area,Eilean Siar
+UKW9,council area,West Lothian
+UKX1,county sir sir y,Isle of Anglesey [English]; Ynys Môn Sir [Welsh]
+UKX2,county borough bwrdeistref sirol,Blaenau Gwent [English and Welsh]
+UKX3,county borough bwrdeistref sirol,Bridgend [English]; Pen-y-bont ar Ogwr [Welsh]
+UKX4,county borough bwrdeistref sirol,Caerphilly [English]; Caerffili [Welsh]
+UKX5,city and county dinas a sir,Cardiff [English]; Caerdydd [Welsh]
+UKX6,county sir sir y,Ceredigion [English]; Ceredigion Sir [Welsh]
+UKX7,county sir sir y,Carmarthenshire [English]; Gaerfyrddin Sir [Welsh]
+UKX8,county borough bwrdeistref sirol,Conwy [English and Welsh]
+UKX9,county sir sir y,Denbighshire [English]; Ddinbych Sir [Welsh]
+UKY1,county sir sir y,Flintshire [English]; Fflint Sir y [Welsh]
+UKY2,unitary authority,Gwynedd
+UKY3,county borough bwrdeistref sirol,Merthyr Tydfil [English]; Merthyr Tudful [Welsh]
+UKY4,county sir sir y,Monmouthshire [English]; Fynwy Sir [Welsh]
+UKY5,county borough bwrdeistref sirol,Neath Port Talbot [English]; Castell-nedd Port Talbot [Welsh]
+UKY6,county borough bwrdeistref sirol,Newport [English]; Casnewydd [Welsh]
+UKY7,county sir sir y,Pembrokeshire [English]; Benfro Sir [Welsh]
+UKY8,unitary authority,Powys
+UKY9,county borough bwrdeistref sirol,Rhondda Cynon Taff [English]; Rhondda Cynon Taf [Welsh]
+UKZ1,city and county dinas a sir,Swansea [English]; Abertawe [Welsh]
+UKZ2,county borough bwrdeistref sirol,Torfaen [English]; Tor-faen [Welsh]
+UKZ3,county borough bwrdeistref sirol,Vale of Glamorgan The [English]; Bro Morgannwg [Welsh]
+UKZ4,county borough bwrdeistref sirol,Wrexham [English]; Wrecsam [Welsh]
+UP00,country,UKRAINE
+UP01,province oblast',Cherkas'ka Oblast'
+UP02,province oblast',Chernihivs'ka Oblast'
+UP03,province oblast',Chernivets'ka Oblast'
+UP04,province oblast',Dnipropetrovs'ka Oblast'
+UP05,province oblast',Donets'ka Oblast'
+UP06,province oblast',Ivano-Frankivs'ka Oblast'
+UP07,province oblast',Kharkivs'ka Oblast'
+UP08,province oblast',Khersons'ka Oblast'
+UP09,province oblast',Khmel'nyts'ka Oblast'
+UP10,province oblast',Kirovohrads'ka Oblast'
+UP11,autonomous republic avtonomna respublika,Krym Avtonomna Respublika
+UP12,city misto,Kyyiv Misto
+UP13,province oblast',Kyyivs'ka Oblast'
+UP14,province oblast',Luhans'ka Oblast'
+UP15,province oblast',L'vivs'ka Oblast'
+UP16,province oblast',Mykolayivs'ka Oblast'
+UP17,province oblast',Odes'ka Oblast'
+UP18,province oblast',Poltavs'ka Oblast'
+UP19,province oblast',Rivnens'ka Oblast'
+UP20,city misto,Sevastopol' Misto
+UP21,province oblast',Sums'ka Oblast'
+UP22,province oblast',Ternopil's'ka Oblast'
+UP23,province oblast',Vinnyts'ka Oblast'
+UP24,province oblast',Volyns'ka Oblast'
+UP25,province oblast',Zakarpats'ka Oblast'
+UP26,province oblast',Zaporiz'ka Oblast'
+UP27,province oblast',Zhytomyrs'ka Oblast'
+US00,country,UNITED STATES
+US01,state,Alabama
+US02,state,Alaska
+US04,state,Arizona
+US05,state,Arkansas
+US06,state,California
+US08,state,Colorado
+US09,state,Connecticut
+US10,state,Delaware
+US11,district,District of Columbia
+US12,state,Florida
+US13,state,Georgia
+US15,state,Hawaii
+US16,state,Idaho
+US17,state,Illinois
+US18,state,Indiana
+US19,state,Iowa
+US20,state,Kansas
+US21,state,Kentucky
+US22,state,Louisiana
+US23,state,Maine
+US24,state,Maryland
+US25,state,Massachusetts
+US26,state,Michigan
+US27,state,Minnesota
+US28,state,Mississippi
+US29,state,Missouri
+US30,state,Montana
+US31,state,Nebraska
+US32,state,Nevada
+US33,state,New Hampshire
+US34,state,New Jersey
+US35,state,New Mexico
+US36,state,New York
+US37,state,North Carolina
+US38,state,North Dakota
+US39,state,Ohio
+US40,state,Oklahoma
+US41,state,Oregon
+US42,state,Pennsylvania
+US44,state,Rhode Island
+US45,state,South Carolina
+US46,state,South Dakota
+US47,state,Tennessee
+US48,state,Texas
+US49,state,Utah
+US50,state,Vermont
+US51,state,Virginia
+US53,state,Washington
+US54,state,West Virginia
+US55,state,Wisconsin
+US56,state,Wyoming
+UU00,country,UNDESIGNATED SOVEREIGNTY
+UV00,country,BURKINA FASO
+UV15,province province,Bam
+UV19,province province,Boulkiemde
+UV20,province province,Ganzourgou
+UV21,province province,Gnagna
+UV28,province province,Kouritenga
+UV33,province province,Oudalan
+UV34,province province,Passore
+UV36,province province,Sanguie
+UV40,province province,Soum
+UV42,province province,Tapoa
+UV44,province province,Zoundweogo
+UV45,province province,Balé
+UV46,province province,Banwa
+UV47,province province,Bazèga
+UV48,province province,Bougouriba
+UV49,province province,Boulgou
+UV50,province province,Gourma
+UV51,province province,Houet
+UV52,province province,Ioba
+UV53,province province,Kadiogo
+UV54,province province,Kénédougou
+UV55,province province,Comoé
+UV56,province province,Komondjari
+UV57,province province,Kompienga
+UV58,province province,Kossi
+UV59,province province,Koulpélogo
+UV60,province province,Kourwéogo
+UV61,province province,Léraba
+UV62,province province,Loroum
+UV63,province province,Mouhoun
+UV64,province province,Namentenga
+UV65,province province,Nahouri
+UV66,province province,Nayala
+UV67,province province,Noumbiel
+UV68,province province,Oubritenga
+UV69,province province,Poni
+UV70,province province,Sanmatenga
+UV71,province province,Séno
+UV72,province province,Sissili
+UV73,province province,Sourou
+UV74,province province,Tuy
+UV75,province province,Yagha
+UV76,province province,Yatenga
+UV77,province province,Ziro
+UV78,province province,Zondoma
+UY00,country,URUGUAY
+UY01,department departamento,Artigas
+UY02,department departamento,Canelones
+UY03,department departamento,Cerro Largo
+UY04,department departamento,Colonia
+UY05,department departamento,Durazno
+UY06,department departamento,Flores
+UY07,department departamento,Florida
+UY08,department departamento,Lavalleja
+UY09,department departamento,Maldonado
+UY10,department departamento,Montevideo
+UY11,department departamento,Paysandu
+UY12,department departamento,Rio Negro
+UY13,department departamento,Rivera
+UY14,department departamento,Rocha
+UY15,department departamento,Salto
+UY16,department departamento,San Jose
+UY17,department departamento,Soriano
+UY18,department departamento,Tacuarembo
+UY19,department departamento,Treinta y Tres
+UZ00,country,UZBEKISTAN
+UZ01,province wiloyati,Andijon
+UZ02,province wiloyati,Bukhoro
+UZ03,province wiloyati,Farghona
+UZ05,province wiloyati,Khorazm
+UZ06,province wiloyati,Namangan
+UZ07,province wiloyati,Nawoiy
+UZ08,province wiloyati,Qashqadaryo
+UZ09,republic respublikasi,Qoraqalpoghiston
+UZ10,province wiloyati,Samarqand
+UZ12,province wiloyati,Surhkondaryo
+UZ13,city shahri,Toshkent
+UZ14,province wiloyati,Toshkent
+UZ15,province wiloyati,Jizzakh
+UZ16,province wiloyati,Sirdaryo
+VC00,country,ST. VINCENT AND THE GRENADINES
+VC01,parish,Charlotte
+VC02,parish,Saint Andrew
+VC03,parish,Saint David
+VC04,parish,Saint George
+VC05,parish,Saint Patrick
+VC06,parish,Grenadines
+VE00,country,VENEZUELA
+VE01,state estado,Amazonas
+VE02,state estado,Anzoategui
+VE03,state estado,Apure
+VE04,state estado,Aragua
+VE05,state estado,Barinas
+VE06,state estado,Bolivar
+VE07,state estado,Carabobo
+VE08,state estado,Cojedes
+VE09,state estado,Delta Amacuro
+VE11,state estado,Falcon
+VE12,state estado,Guarico
+VE13,state estado,Lara
+VE14,state estado,Merida
+VE15,state estado,Miranda
+VE16,state estado,Monagas
+VE17,state estado,Nueva Esparta
+VE18,state estado,Portuguesa
+VE19,state estado,Sucre
+VE20,state estado,Tachira
+VE21,state estado,Trujillo
+VE22,state estado,Yaracuy
+VE23,state estado,Zulia
+VE24,federal dependencies dependencias federales,Dependencias Federales
+VE25,federal district distrito federal,Distrito Federal
+VE26,state estado,Vargas
+VI00,country,BRITISH VIRGIN ISLANDS
+VM00,country,VIETNAM
+VM01,province tinh,An Giang
+VM03,province tinh,Bến Tre
+VM05,province tinh,Cao Bằng
+VM09,province tinh,Ðồng Tháp
+VM13,municipality thanh pho,Hải Phòng
+VM20,municipality thanh pho,Hồ Chí Minh
+VM21,province tinh,Kiến Giang
+VM23,province tinh,Lâm Ðồng
+VM24,province tinh,Long An
+VM30,province tinh,Quảng Ninh
+VM32,province tinh,Sơn La
+VM33,province tinh,Tây Ninh
+VM34,province tinh,Thanh Hóa
+VM35,province tinh,Thái Bình
+VM37,province tinh,Tiền Giang
+VM39,province tinh,Lạng Sơn
+VM43,province tinh,Ðồng Nai
+VM44,municipality thanh pho,Hà Nội
+VM45,province tinh,Bà Rịa-Vũng Tàu
+VM46,province tinh,Bình Ðịnh
+VM47,province tinh,Bình Thuận
+VM49,province tinh,Gia Lai
+VM50,province tinh,Hà Giang
+VM51,province tinh,Hà Tây
+VM52,province tinh,Hà Tĩnh
+VM53,province tinh,Hòa Bình
+VM54,province tinh,Khánh Hòa
+VM55,province tinh,Kon Tum
+VM58,province tinh,Nghệ An
+VM59,province tinh,Ninh Bình
+VM60,province tinh,Ninh Thuận
+VM61,province tinh,Phú Yên
+VM62,province tinh,Quảng Bình
+VM63,province tinh,Quảng Ngãi
+VM64,province tinh,Quảng Trị
+VM65,province tinh,Sóc Trăng
+VM66,province tinh,Thừa Thiên-Huế
+VM67,province tinh,Trà Vinh
+VM68,province tinh,Tuyên Quang
+VM69,province tinh,Vĩnh Long 
+VM70,province tinh,Yên Bái
+VM71,province tinh,Bắc Giang
+VM72,province tinh,Bắc Kạn
+VM73,province tinh,Bạc Liêu
+VM74,province tinh,Bắc Ninh
+VM75,province tinh,Bìn Dương
+VM76,province tinh,Bìn Phước
+VM77,province tinh,Cà Mau
+VM78,municipality thanh pho,Ðà Nẵng
+VM79,province tinh,Hải Dương
+VM80,province tinh,Hà Nam
+VM81,province tinh,Hưng Yên
+VM82,province tinh,Nam Ðịnh
+VM83,province tinh,Phú Thọ
+VM84,province tinh,Quảng Nam
+VM85,province tinh,Thái Nguyên
+VM86,province tinh,Vĩnh Phúc
+VM87,municipality thanh pho,Cẩn Thỏ
+VM88,province tinh,Đắk Lắk
+VM89,province tinh,Lai Châu
+VM90,province tinh,Lào Cai
+VM91,province tinh,Đắk Nông
+VM92,province tinh,Điện Biên
+VM93,province tinh,Hậu Giang
+VQ00,country,VIRGIN ISLANDS
+VT00,country,VATICAN CITY
+WA00,country,NAMIBIA
+WA21,district,Khomas
+WA28,district,Caprivi
+WA29,district,Erongo
+WA30,district,Hardap
+WA31,district,Karas
+WA32,district,Kunene
+WA33,district,Ohangwena
+WA34,district,Okavango
+WA35,district,Omaheke
+WA36,district,Omusati
+WA37,district,Oshana
+WA38,district,Oshikoto
+WA39,district,Otjozondjupa
+WE00,country,WEST BANK
+WF00,country,WALLIS AND FUTUNA
+WI00,country,WESTERN SAHARA
+WQ00,country,WAKE ISLAND
+WS00,country,SAMOA
+WS01,district,A`ana
+WS02,district,Aiga-i-le-Tai
+WS03,district,Atua
+WS04,district,Fa`asaleleaga
+WS05,district,Gaga`emauga
+WS06,district,Va`a-o-Fonoti
+WS07,district,Gagaifomauga
+WS08,district,Palauli
+WS09,district,Satupa`itea
+WS10,district,Tuamasaga
+WS11,district,Vaisigano
+WZ00,country,SWAZILAND
+WZ01,district,Hhohho
+WZ02,district,Lubombo
+WZ03,district,Manzini
+WZ04,district,Shiselweni
+WZ05,district,Praslin
+YM00,country,YEMEN
+YM01,governorate muhafazah,Abyan
+YM02,governorate muhafazah,‘Adan
+YM03,governorate muhafazah,Al Mahrah
+YM04,governorate muhafazah,Hadramawt
+YM05,governorate muhafazah,Shabwah
+YM08,governorate muhafazah,Al Hudaydah
+YM10,governorate muhafazah,Al Mahwit
+YM11,governorate muhafazah,Dhamar
+YM14,governorate muhafazah,Ma'rib
+YM15,governorate muhafazah,Sa‘dah
+YM16,governorate muhafazah,San‘a'
+YM18,governorate muhafazah,Aḑ Ḑāli‘
+YM19,governorate muhafazah,‘Amrān
+YM20,governorate muhafazah,Al Bayda'
+YM21,governorate muhafazah,Al Jawf
+YM22,governorate muhafazah,Ḩajjah
+YM23,governorate muhafazah,Ibb
+YM24,governorate muhafazah,Laḩij
+YM25,governorate muhafazah,Ta‘izz
+ZA00,country,ZAMBIA
+ZA01,province,Western
+ZA02,province,Central
+ZA03,province,Eastern
+ZA04,province,Luapula
+ZA05,province,Northern
+ZA06,province,North-Western
+ZA07,province,Southern
+ZA08,province,Copperbelt
+ZA09,province,Lusaka
+ZI00,country,ZIMBABWE
+ZI01,province,Manicaland
+ZI02,province,Midlands
+ZI03,province,Mashonaland Central
+ZI04,province,Mashonaland East
+ZI05,province,Mashonaland West
+ZI06,province,Matabeleland North
+ZI07,province,Matabeleland South
+ZI08,province,Masvingo
+ZI09,province,Bulawayo
+ZI10,province,Harare
