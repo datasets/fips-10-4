@@ -1,0 +1,42 @@
+{
+  "name": "Region codes.",
+  "title": "FIPS 10-4 Codes",
+  "description": "COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS",
+  "resources": [
+    {
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "data",
+      "path": "data/data.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "region code",
+            "type": "string",
+            "description": "FIPS 10-4 code"
+          },
+          {
+            "name": "region division",
+            "type": "string",
+            "description": "division name for the given country"
+          },
+          {
+            "name": "region name",
+            "type": "string",
+            "description": "name of the region"
+          }
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS",
+      "title": "FIPS 10-4 Codes and history",
+      "web": "http://efele.net/maps/fips-10/data/",
+      "url": "http://efele.net/maps/fips-10/data/fips-414.txt"
+    }
+  ]
+}

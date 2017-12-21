@@ -2,9 +2,11 @@ List of FIPS region codes.
 
 ## Data
 
-List of region codes comes from http://efele.net  
-http://efele.net/maps/fips-10/data/fips-414.txt
+FIPS publication 10-4: COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS
 
+Comes from [efele.net](http://efele.net/maps/fips-10/data/)  
+ 
+Source url: http://efele.net/maps/fips-10/data/fips-414.txt  
 Output csv file: `data/data.csv`
 
 ### Data format
