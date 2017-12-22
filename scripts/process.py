@@ -24,28 +24,27 @@ def parse():
     def clean(text):
         return text.strip('_').replace('_', ' ').replace(',', '')
 
-    with open('data/data.csv', 'w') as destination:
-        writer = csv.writer(destination)
-        writer.writerow(['region code', 'region division', 'region name'])
+    destination = open('data/data.csv', 'w')
+    writer = csv.writer(destination)
+    writer.writerow(['region_code', 'region_division', 'region_name'])
 
-        with open('archive/data.txt') as source:
-            for line in source:
-                line = line.rstrip().strip('_').replace('414', '')
-                try:
-                    code, division, name = line.split('___')
-                except ValueError:
-                    try:
-                        code, division, name = line.split('__')
-                    except ValueError:
-                        code, *division, name = line.split('_')
-                        division = '_'.join(division)
+    source = open('archive/data.txt')
+    for line in source:
+        line = line.rstrip().strip('_').replace('414', '')
+        try:
+            code, division, name = line.split('___')
+        except ValueError:
+            try:
+                code, division, name = line.split('__')
+            except ValueError:
+                code, *division, name = line.split('_')
+                division = '_'.join(division)
 
-                writer.writerow([code, clean(division), clean(name)])
+        writer.writerow([code, clean(division), clean(name)])
+
+    source.close()
+    destination.close()
 
 if __name__ == "__main__":
-    # define working directory
-    if os.path.exists('process.py'):
-        os.chdir('../')
-
     retrieve(SOURCE_URL)
     parse()

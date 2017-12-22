@@ -12,16 +12,16 @@ Output csv file: `data/data.csv`
 ### Data format
 
 ```
-region code, region division, region name
-AA00, country, ARUBA
-AC00, country, ANTIGUA AND BARBUDA
-AC01, dependency, Barbuda
-AC03, parish, Saint George
+region code,region division,region name
+AA00,country,ARUBA
+AC00,country,ANTIGUA AND BARBUDA
+AC01,dependency,Barbuda
+AC03,parish,Saint George
 ```
 
-* `region code` - FIPS 10-4 code
-* `region division` - division name for the given country
-* `region name` - name of the region
+* `region_code` - FIPS 10-4 code
+* `region_division` - division name for the given country
+* `region_name` - name of the region
  
 ## Preparation
  

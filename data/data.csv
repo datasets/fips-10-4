@@ -1,4 +1,4 @@
-region code,region division,region name
+region_code,region_division,region_name
 AA00,country,ARUBA
 AC00,country,ANTIGUA AND BARBUDA
 AC01,dependency,Barbuda
