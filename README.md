@@ -1,4 +1,4 @@
-List of FIPS region codes.
+List of FIPS (Federal Information Processing Standards) region codes.
 
 ## Data
 
