@@ -1,6 +1,6 @@
 {
   "name": "region-codes",
-  "title": "Federal Information Processing Standards 10-4 Codes",
+  "title": "fips 10-4",
   "description": "countries, dependencies, areas of special sovereignty, and their principal administrative divisions",
   "resources": [
     {
@@ -34,7 +34,7 @@
   "sources": [
     {
       "name": "countries, dependencies, areas of special sovereignty, and their principal administrative divisions",
-      "title": "FIPS 10-4 Codes and history",
+      "title": "Federal Information Processing Standards (FIPS 10-4 Codes and history)",
       "web": "http://efele.net/maps/fips-10/data/",
       "url": "http://efele.net/maps/fips-10/data/fips-414.txt"
     }
