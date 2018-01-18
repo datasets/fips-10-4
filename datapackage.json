@@ -1,7 +1,7 @@
 {
-  "name": "region-codes",
+  "name": "fips-10-4",
   "title": "fips 10-4",
-  "description": "countries, dependencies, areas of special sovereignty, and their principal administrative divisions",
+  "description": "Region codes of countries, dependencies, areas of special sovereignty, and their principal administrative divisions",
   "resources": [
     {
       "encoding": "utf-8",
