@@ -37,5 +37,6 @@
       "title": "Federal Information Processing Standards (FIPS 10-4 Codes and history)",
       "path": "http://efele.net/maps/fips-10/data/fips-414.txt"
     }
-  ]
+  ],
+  "collection": "reference-data"
 }
