@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/fips-10-4"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 List of FIPS (Federal Information Processing Standards) region codes.
 
 ## Data
