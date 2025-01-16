@@ -30,12 +30,14 @@ AC03,parish,Saint George
 If you want to update this data, you will need git and python3 installed to run processing script.
 
 ``` bash
-git clone https://github.com/datasets/administrative-codes-FIPS-10-4.git
-cd administrative-codes-FIPS-10-4
+pip install -r scripts/requirements.txt
 python3 scripts/process.py
 ```
 
-## license
+## Automation
+Up-to-date (auto-updates every month) fips-10-4 dataset could be found on the datahub.io: https://datahub.io/core/fips-10-4
+
+## License
 
 Author:
 eric.muller at efele.net
